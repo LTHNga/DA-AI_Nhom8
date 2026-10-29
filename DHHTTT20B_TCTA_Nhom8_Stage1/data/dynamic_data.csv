@@ -1,0 +1,1001 @@
+﻿interaction_id,product_id,customer_id,customer_name,customer_email,customer_city,timestamp,views,add_to_cart,purchase,quantity
+INT000001,SHOP015496,CUST00171,Allison Hill,qjacobson@example.org,West Alanchester,2026-01-01 00:00:00,20,0,0,0
+INT000002,SHOP000561,CUST00460,Noah Rhodes,ylopez@example.com,Allisonshire,2026-01-01 01:00:00,15,1,1,1
+INT000003,SHOP005091,CUST00492,Angie Henderson,seanbaker@example.com,Benjaminfurt,2026-01-01 02:00:00,7,0,0,0
+INT000004,SHOP011665,CUST00356,Daniel Wagner,jeremy49@example.org,Palmerfort,2026-01-01 03:00:00,11,0,0,0
+INT000005,SHOP010985,CUST00496,Cristian Santos,karencontreras@example.org,Lake Bruce,2026-01-01 04:00:00,20,0,0,0
+INT000006,SHOP005966,CUST00324,Connie Lawrence,lindsey69@example.org,South Barbaraside,2026-01-01 05:00:00,16,0,0,0
+INT000007,SHOP016551,CUST00133,Abigail Shaffer,randallloretta@example.com,West Patriciachester,2026-01-01 06:00:00,4,0,0,0
+INT000008,SHOP004127,CUST00376,Gina Moore,parmstrong@example.com,Wilsonstad,2026-01-01 07:00:00,6,1,0,0
+INT000009,SHOP014124,CUST00293,Gabrielle Davis,christian08@example.net,Terrytown,2026-01-01 08:00:00,3,1,1,2
+INT000010,SHOP011064,CUST00328,Ryan Munoz,davidtodd@example.org,West Jessica,2026-01-01 09:00:00,9,0,0,0
+INT000011,SHOP015724,CUST00127,Monica Herrera,teresastokes@example.org,Cooperbury,2026-01-01 10:00:00,10,1,1,1
+INT000012,SHOP008023,CUST00106,Jamie Arnold,hendersonvanessa@example.com,New Regina,2026-01-01 11:00:00,14,1,0,0
+INT000013,SHOP001386,CUST00497,Lisa Hensley,wendyburton@example.net,Sandramouth,2026-01-01 12:00:00,11,1,0,0
+INT000014,SHOP000470,CUST00092,Michele Williams,luis11@example.com,West Jennifer,2026-01-01 13:00:00,18,0,0,0
+INT000015,SHOP002134,CUST00287,Dylan Miller,rarnold@example.net,Moyerstad,2026-01-01 14:00:00,12,1,0,0
+INT000016,SHOP005012,CUST00378,Brian Ramirez,astark@example.net,Marshburgh,2026-01-01 15:00:00,12,0,1,2
+INT000017,SHOP004752,CUST00393,Holly Wood,jrodriguez@example.org,West Hannah,2026-01-01 16:00:00,13,1,0,0
+INT000018,SHOP006121,CUST00051,Derek Zuniga,buckleyanna@example.org,Lake Timothyburgh,2026-01-01 17:00:00,13,0,0,0
+INT000019,SHOP017269,CUST00029,Lisa Jackson,mikayla56@example.com,East Catherine,2026-01-01 18:00:00,19,0,0,0
+INT000020,SHOP019470,CUST00462,Carla Gray,kpena@example.net,Port Robertfort,2026-01-01 19:00:00,19,1,0,0
+INT000021,SHOP006097,CUST00296,Margaret Hawkins DDS,rjohnson@example.com,Jimmyside,2026-01-01 20:00:00,14,0,0,0
+INT000022,SHOP008367,CUST00297,Patty Perez,christinebecker@example.com,North Michaelview,2026-01-01 21:00:00,4,1,0,0
+INT000023,SHOP018643,CUST00214,Ethan Adams,fosternatasha@example.net,Ericaburgh,2026-01-01 22:00:00,13,1,0,0
+INT000024,SHOP018132,CUST00267,Tommy Walter,brandonalvarez@example.com,Port Brycechester,2026-01-01 23:00:00,8,0,1,1
+INT000025,SHOP002448,CUST00407,Matthew Foster,andrew44@example.com,New Jeremyside,2026-01-02 00:00:00,19,0,0,0
+INT000026,BOOK000190,CUST00257,Judy Baker,rgarrison@example.org,South Jonathan,2026-01-02 01:00:00,12,0,0,0
+INT000027,SHOP018819,CUST00302,Justin Baker,dennismccann@example.com,Kristenton,2026-01-02 02:00:00,18,0,0,0
+INT000028,SHOP002706,CUST00101,Stephanie Ross,joseph69@example.net,Paulahaven,2026-01-02 03:00:00,6,0,0,0
+INT000029,SHOP001600,CUST00405,Zachary Hicks,lopezjason@example.com,Lake Brentmouth,2026-01-02 04:00:00,18,1,0,0
+INT000030,SHOP000968,CUST00346,Anthony Rodriguez,xmalone@example.org,Estesville,2026-01-02 05:00:00,19,0,0,0
+INT000031,SHOP017613,CUST00110,Rebecca Henderson,cameronmckinney@example.com,Port Cherylville,2026-01-02 06:00:00,5,0,0,0
+INT000032,SHOP011095,CUST00420,James Ferrell,kimberlywarren@example.net,New Danielville,2026-01-02 07:00:00,9,1,1,3
+INT000033,SHOP003257,CUST00182,Tricia Valencia,thompsonnancy@example.org,West Eric,2026-01-02 08:00:00,3,0,0,0
+INT000034,SHOP003591,CUST00471,Nathan Maldonado,wrightstephen@example.com,Jeanhaven,2026-01-02 09:00:00,10,0,0,0
+INT000035,SHOP008539,CUST00313,Debra Davidson,joshuacolon@example.net,Oconnorville,2026-01-02 10:00:00,19,1,0,0
+INT000036,SHOP014203,CUST00001,Jeffrey Chavez,hreid@example.net,Lake Michael,2026-01-02 11:00:00,3,0,0,0
+INT000037,SHOP010328,CUST00319,Sherri Baker,allentracy@example.com,North Melinda,2026-01-02 12:00:00,15,1,0,0
+INT000038,SHOP008493,CUST00438,Cassandra Gaines,susanwells@example.net,Montestown,2026-01-02 13:00:00,1,1,0,0
+INT000039,SHOP010256,CUST00055,Elizabeth Fowler,max41@example.com,Port Lisa,2026-01-02 14:00:00,7,1,1,2
+INT000040,SHOP009954,CUST00371,Brittany Farmer,hughesfrank@example.net,Justinburgh,2026-01-02 15:00:00,12,0,1,2
+INT000041,SHOP008134,CUST00424,Paula Moreno,mercedesholland@example.net,West Nathanchester,2026-01-02 16:00:00,17,0,1,1
+INT000042,SHOP009934,CUST00399,Fred Smith,josephortiz@example.org,Crystalbury,2026-01-02 17:00:00,20,0,0,0
+INT000043,SHOP010717,CUST00149,Sherry Decker,wellsdavid@example.org,Port Karen,2026-01-02 18:00:00,5,1,0,0
+INT000044,SHOP002313,CUST00431,Anthony Humphrey,walkercharlene@example.com,Cobbberg,2026-01-02 19:00:00,4,1,0,0
+INT000045,SHOP015488,CUST00457,Angelica Tucker,rodney65@example.com,Gutierrezchester,2026-01-02 20:00:00,12,0,1,1
+INT000046,SHOP016860,CUST00309,Philip Cannon,jeffery48@example.net,Cranehaven,2026-01-02 21:00:00,20,0,0,0
+INT000047,SHOP011907,CUST00137,John Pierce,asilva@example.net,Sherrymouth,2026-01-02 22:00:00,18,0,1,2
+INT000048,SHOP007927,CUST00202,Shane Henderson,anna99@example.com,Port Alejandro,2026-01-02 23:00:00,17,0,0,0
+INT000049,SHOP014242,CUST00436,Joshua Blair,gabrielle71@example.com,North Matthewfurt,2026-01-03 00:00:00,19,1,0,0
+INT000050,SHOP002853,CUST00313,Eric Carney,danielle44@example.net,South Bryan,2026-01-03 01:00:00,9,0,0,0
+INT000051,SHOP001286,CUST00117,Jessica Holmes,jacob83@example.org,Lake Sandraberg,2026-01-03 02:00:00,4,1,0,0
+INT000052,SHOP003644,CUST00154,Danny Morgan,rguerrero@example.org,Lake Tinahaven,2026-01-03 03:00:00,2,1,0,0
+INT000053,SHOP019158,CUST00425,Crystal Robinson,rioswhitney@example.com,Robertside,2026-01-03 04:00:00,4,0,0,0
+INT000054,SHOP000722,CUST00291,Mark Perez,vsullivan@example.org,Jennifermouth,2026-01-03 05:00:00,2,0,0,0
+INT000055,SHOP011354,CUST00063,Shannon Jones,matthewreeves@example.net,Alanview,2026-01-03 06:00:00,15,0,0,0
+INT000056,SHOP010506,CUST00244,Michael Lewis,qknox@example.com,Lake Richard,2026-01-03 07:00:00,2,0,0,0
+INT000057,SHOP013118,CUST00025,Timothy Duncan,megan82@example.com,New Claudia,2026-01-03 08:00:00,4,1,0,0
+INT000058,SHOP019928,CUST00090,Richard Aguirre,ruizjoyce@example.net,Terryfurt,2026-01-03 09:00:00,6,1,0,0
+INT000059,SHOP007690,CUST00075,Brent Jordan,staceylam@example.net,West Christopher,2026-01-03 10:00:00,7,1,0,0
+INT000060,SHOP009393,CUST00294,John Daniel,walkerjeffrey@example.com,Peterberg,2026-01-03 11:00:00,10,0,0,0
+INT000061,SHOP012691,CUST00386,Victoria Garcia,vfrench@example.com,Jasonhaven,2026-01-03 12:00:00,19,0,0,0
+INT000062,SHOP006574,CUST00391,Gerald Hensley,brenda71@example.com,Adrienneburgh,2026-01-03 13:00:00,19,1,0,0
+INT000063,SHOP005376,CUST00210,Connor West,delacruzbrandy@example.net,North Pamelaside,2026-01-03 14:00:00,12,0,0,0
+INT000064,BOOK000162,CUST00475,Donald Wright,kennedyjames@example.org,Johnport,2026-01-03 15:00:00,3,0,0,0
+INT000065,SHOP003998,CUST00418,Jessica Callahan,amoreno@example.org,Benitezville,2026-01-03 16:00:00,13,0,0,0
+INT000066,SHOP000696,CUST00347,Amber Kidd,derrickgonzalez@example.com,Port Nathanhaven,2026-01-03 17:00:00,18,0,1,1
+INT000067,SHOP011235,CUST00017,Tracy House,tthomas@example.org,Davidville,2026-01-03 18:00:00,8,0,0,0
+INT000068,SHOP007330,CUST00128,Carol Tucker,freemancrystal@example.org,Evanstown,2026-01-03 19:00:00,15,0,0,0
+INT000069,SHOP000717,CUST00427,James Brown,cynthia07@example.com,Morganbury,2026-01-03 20:00:00,1,1,0,0
+INT000070,SHOP008230,CUST00443,William Baker,kathleenjackson@example.org,West Kevin,2026-01-03 21:00:00,3,0,1,2
+INT000071,SHOP016963,CUST00364,Jordan Henderson,xglover@example.org,Lake Nicholas,2026-01-03 22:00:00,8,0,0,0
+INT000072,SHOP008969,CUST00251,Whitney Peters,christinaschultz@example.com,North Mark,2026-01-03 23:00:00,4,0,0,0
+INT000073,SHOP011886,CUST00179,Brittney Phillips,ysanford@example.org,Port Kimberly,2026-01-04 00:00:00,16,1,1,3
+INT000074,SHOP006032,CUST00182,Lauren Daniels,fergusonjessica@example.org,Garciachester,2026-01-04 01:00:00,10,0,0,0
+INT000075,SHOP008272,CUST00152,Amy Silva,katherine83@example.org,Millerton,2026-01-04 02:00:00,12,0,1,1
+INT000076,SHOP006909,CUST00025,Sarah Moore,simsjohn@example.net,Beasleyfort,2026-01-04 03:00:00,14,0,0,0
+INT000077,SHOP004977,CUST00455,Angela Lopez,larry16@example.net,South Christian,2026-01-04 04:00:00,14,1,1,1
+INT000078,SHOP018147,CUST00180,Megan Young,gary04@example.com,Chapmanhaven,2026-01-04 05:00:00,2,0,0,0
+INT000079,SHOP016149,CUST00198,Steve Sanchez,mluna@example.net,Wigginsshire,2026-01-04 06:00:00,5,1,0,0
+INT000080,SHOP015917,CUST00344,Lisa Barnes,ryan25@example.com,Fieldsmouth,2026-01-04 07:00:00,5,1,0,0
+INT000081,SHOP007707,CUST00161,Kelly Donovan,karen26@example.org,Dennischester,2026-01-04 08:00:00,6,0,0,0
+INT000082,SHOP002269,CUST00177,Mike Allen,jeffreymercer@example.org,East William,2026-01-04 09:00:00,13,1,0,0
+INT000083,SHOP001728,CUST00285,Michael Evans,lawrencegary@example.com,Dawsonberg,2026-01-04 10:00:00,9,0,1,2
+INT000084,SHOP002396,CUST00063,Paul Jones,brooksdanielle@example.net,Lake Jasonfort,2026-01-04 11:00:00,15,1,1,1
+INT000085,SHOP015123,CUST00491,Zachary Ferrell,wheelerbrandon@example.org,Lake Ericside,2026-01-04 12:00:00,14,0,0,0
+INT000086,SHOP004959,CUST00150,Daniel Baker,williamsdarrell@example.com,Sandraville,2026-01-04 13:00:00,7,1,1,3
+INT000087,SHOP006437,CUST00154,Shirley Suarez,qmartinez@example.com,Rodriguezstad,2026-01-04 14:00:00,20,0,0,0
+INT000088,SHOP000092,CUST00156,Christopher Bass,jamiejennings@example.org,Billyberg,2026-01-04 15:00:00,2,0,0,0
+INT000089,SHOP013687,CUST00370,Lisa Archer,robert18@example.com,West Kevinstad,2026-01-04 16:00:00,7,0,0,0
+INT000090,SHOP012367,CUST00469,Aimee Montoya,robertroach@example.net,Kellytown,2026-01-04 17:00:00,6,0,0,0
+INT000091,SHOP005593,CUST00049,Matthew Mcmillan,campbellkristen@example.com,East Kristen,2026-01-04 18:00:00,17,0,0,0
+INT000092,SHOP003262,CUST00455,Brian Rodriguez,chelseastrickland@example.net,Williamsport,2026-01-04 19:00:00,2,0,0,0
+INT000093,SHOP005885,CUST00337,Denise Jacobs,michaelortiz@example.org,Jasonfort,2026-01-04 20:00:00,3,0,1,3
+INT000094,SHOP019184,CUST00084,Christina Walters,kelleyrenee@example.net,North Amyland,2026-01-04 21:00:00,5,0,0,0
+INT000095,SHOP008093,CUST00361,John Whitehead,arivera@example.org,South Timothyport,2026-01-04 22:00:00,5,1,1,3
+INT000096,SHOP012768,CUST00177,Anna Henderson,meadowsmary@example.net,Mcculloughfurt,2026-01-04 23:00:00,1,0,0,0
+INT000097,SHOP014966,CUST00148,Aaron Wise,fhernandez@example.net,Davenportberg,2026-01-05 00:00:00,8,0,0,0
+INT000098,SHOP019189,CUST00118,Deborah Figueroa,cummingscraig@example.com,New Dana,2026-01-05 01:00:00,12,0,0,0
+INT000099,SHOP002155,CUST00342,Jessica Smith,stephenmadden@example.com,Contrerasberg,2026-01-05 02:00:00,4,0,1,3
+INT000100,SHOP011538,CUST00476,Stephen Mckee,lwilliams@example.org,Christopherchester,2026-01-05 03:00:00,13,1,0,0
+INT000101,SHOP013740,CUST00063,Sandra Aguilar,michael56@example.net,Hallfurt,2026-01-05 04:00:00,15,0,0,0
+INT000102,SHOP018816,CUST00189,Cameron Parker,daviskatherine@example.org,Ambermouth,2026-01-05 05:00:00,11,1,0,0
+INT000103,SHOP010666,CUST00360,Rebecca Valencia,christianelizabeth@example.org,Debbieburgh,2026-01-05 06:00:00,10,1,0,0
+INT000104,SHOP009463,CUST00049,Christine Wright,michael79@example.com,New Crystalport,2026-01-05 07:00:00,3,1,0,0
+INT000105,SHOP004757,CUST00327,Richard Henson,watsonmatthew@example.org,Lake Anitaborough,2026-01-05 08:00:00,14,0,0,0
+INT000106,SHOP014649,CUST00257,Marc Moore,dross@example.com,New Aimeefort,2026-01-05 09:00:00,16,1,0,0
+INT000107,SHOP007811,CUST00224,Sharon Cherry,evaughn@example.com,North Dominiqueside,2026-01-05 10:00:00,10,1,0,0
+INT000108,SHOP013474,CUST00141,Sierra Johnson,danielhorton@example.org,North Joshua,2026-01-05 11:00:00,10,0,0,0
+INT000109,SHOP019925,CUST00478,Evelyn Galvan,dalepruitt@example.com,East Maria,2026-01-05 12:00:00,12,0,0,0
+INT000110,SHOP017113,CUST00215,Sharon Cochran,ywhite@example.com,Millerside,2026-01-05 13:00:00,9,0,0,0
+INT000111,SHOP000203,CUST00435,Richard Rodriguez,huffmannichole@example.net,Richardton,2026-01-05 14:00:00,1,0,0,0
+INT000112,SHOP006611,CUST00379,Shannon Walker,timothyfreeman@example.com,Atkinstown,2026-01-05 15:00:00,5,0,1,1
+INT000113,SHOP012386,CUST00440,Julia Torres,qwilliams@example.net,Samuelchester,2026-01-05 16:00:00,20,0,0,0
+INT000114,BOOK000207,CUST00211,Crystal Johnson,alexander89@example.net,Port Allisonfurt,2026-01-05 17:00:00,8,0,0,0
+INT000115,SHOP017569,CUST00318,Garrett Lin,tiffanysantiago@example.com,Christopherville,2026-01-05 18:00:00,11,0,0,0
+INT000116,SHOP015635,CUST00032,Diana May,reynoldsjessica@example.com,West Douglas,2026-01-05 19:00:00,12,0,0,0
+INT000117,SHOP016948,CUST00158,William Herrera,elizabeth62@example.net,Kaylaberg,2026-01-05 20:00:00,1,0,0,0
+INT000118,SHOP018875,CUST00285,Ashley Waller,smithsarah@example.net,Stephanieburgh,2026-01-05 21:00:00,20,0,0,0
+INT000119,SHOP008456,CUST00305,Victor Baker,kchristian@example.org,New Susanburgh,2026-01-05 22:00:00,11,0,0,0
+INT000120,SHOP012084,CUST00429,Jeffrey Chandler,vflores@example.com,Lake Brianfurt,2026-01-05 23:00:00,5,0,1,1
+INT000121,SHOP017842,CUST00477,Larry Dixon,hunterandrea@example.com,West Douglasmouth,2026-01-06 00:00:00,15,1,0,0
+INT000122,SHOP014521,CUST00286,Kenneth Scott,fmontoya@example.com,Nicholasville,2026-01-06 01:00:00,5,0,0,0
+INT000123,SHOP007275,CUST00144,April Frost,csolis@example.org,East Johnshire,2026-01-06 02:00:00,12,0,0,0
+INT000124,SHOP006075,CUST00424,Michelle Harmon,hwest@example.com,South William,2026-01-06 03:00:00,5,1,0,0
+INT000125,SHOP001379,CUST00019,Helen Jones,garciarobert@example.net,Averyview,2026-01-06 04:00:00,17,0,0,0
+INT000126,SHOP019327,CUST00018,Erin Edwards,petersenlatoya@example.net,West Stevenchester,2026-01-06 05:00:00,17,0,0,0
+INT000127,SHOP000760,CUST00257,Michelle Evans,pamela83@example.net,South Anthonybury,2026-01-06 06:00:00,12,1,0,0
+INT000128,SHOP015899,CUST00078,Jason Powell,xclements@example.org,West Angelashire,2026-01-06 07:00:00,15,1,0,0
+INT000129,SHOP009615,CUST00371,Cameron Fisher,meganrivera@example.net,East Kathrynberg,2026-01-06 08:00:00,15,0,0,0
+INT000130,SHOP019242,CUST00175,Megan Orr,xmoran@example.net,Ashleymouth,2026-01-06 09:00:00,6,0,0,0
+INT000131,SHOP010518,CUST00498,Elizabeth Kelley,wwilson@example.net,Port Cynthiaborough,2026-01-06 10:00:00,12,1,0,0
+INT000132,SHOP010622,CUST00194,Dustin Jordan,aaronkelly@example.net,West Amber,2026-01-06 11:00:00,20,0,0,0
+INT000133,SHOP009490,CUST00476,Mary Marshall,amy51@example.org,Port John,2026-01-06 12:00:00,18,0,1,3
+INT000134,SHOP016013,CUST00113,Daniel Kennedy,travisunderwood@example.net,Aliside,2026-01-06 13:00:00,14,1,0,0
+INT000135,SHOP010953,CUST00114,Rebecca Jackson,nrodriguez@example.org,Williamsmouth,2026-01-06 14:00:00,2,0,0,0
+INT000136,SHOP002394,CUST00222,Jose Schultz,davidphelps@example.org,Deniseburgh,2026-01-06 15:00:00,9,0,1,2
+INT000137,SHOP013632,CUST00166,Robert Potter,msummers@example.net,North Sarahfort,2026-01-06 16:00:00,5,0,0,0
+INT000138,SHOP003328,CUST00435,Courtney Gonzalez,daniel60@example.net,Carlafurt,2026-01-06 17:00:00,20,1,0,0
+INT000139,SHOP015858,CUST00319,David Alvarez,bartonshannon@example.net,Meganborough,2026-01-06 18:00:00,1,0,0,0
+INT000140,SHOP009874,CUST00132,Angel Perry,tamarasmith@example.net,Brandonside,2026-01-06 19:00:00,3,0,0,0
+INT000141,SHOP017748,CUST00385,Cheyenne Horton,tranryan@example.net,West Christopherville,2026-01-06 20:00:00,6,0,0,0
+INT000142,SHOP009931,CUST00264,David Douglas Jr.,xglass@example.org,Lake Angela,2026-01-06 21:00:00,5,0,0,0
+INT000143,SHOP015408,CUST00413,Patricia Rodriguez,jessicaanderson@example.com,Natalieborough,2026-01-06 22:00:00,5,0,0,0
+INT000144,SHOP011195,CUST00055,Christopher Rubio,william66@example.net,Nicolemouth,2026-01-06 23:00:00,1,1,0,0
+INT000145,SHOP001007,CUST00359,Amber Wright,joshuastuart@example.com,Tiffanymouth,2026-01-07 00:00:00,17,0,1,1
+INT000146,SHOP006477,CUST00131,Joyce Solis,iballard@example.com,Johnmouth,2026-01-07 01:00:00,19,0,0,0
+INT000147,SHOP009175,CUST00288,Victoria Larson,megan85@example.net,Jasonmouth,2026-01-07 02:00:00,14,1,0,0
+INT000148,SHOP007227,CUST00266,Stephanie Salazar,jamesweber@example.com,Lake Dennistown,2026-01-07 03:00:00,12,0,1,3
+INT000149,SHOP005231,CUST00458,Kathy Rivas,samantha22@example.net,Smithtown,2026-01-07 04:00:00,10,1,0,0
+INT000150,SHOP003449,CUST00467,Stephanie Manning,jennifer58@example.com,South Angela,2026-01-07 05:00:00,20,0,1,3
+INT000151,SHOP013246,CUST00366,David Wright,icraig@example.com,Farmerside,2026-01-07 06:00:00,18,0,0,0
+INT000152,SHOP000364,CUST00162,Pamela Boyd,hstokes@example.org,Port Nancyland,2026-01-07 07:00:00,11,0,0,0
+INT000153,SHOP001699,CUST00380,Denise Jones,jamesbrian@example.org,Port Lisamouth,2026-01-07 08:00:00,2,1,0,0
+INT000154,SHOP007695,CUST00481,Devon Flores,josephfloyd@example.com,West Teresafurt,2026-01-07 09:00:00,18,0,0,0
+INT000155,SHOP017580,CUST00087,Brenda Hall,dwayne04@example.org,Paultown,2026-01-07 10:00:00,7,0,0,0
+INT000156,SHOP003005,CUST00055,Michelle Brown,howardshaun@example.net,South Mitchellborough,2026-01-07 11:00:00,15,0,1,2
+INT000157,SHOP019848,CUST00476,Joshua Perry,juliahoffman@example.org,Smithtown,2026-01-07 12:00:00,11,0,0,0
+INT000158,SHOP017938,CUST00288,Jason Stein,heather06@example.com,Erinstad,2026-01-07 13:00:00,18,0,0,0
+INT000159,SHOP013509,CUST00178,Melissa Gates,rfrye@example.com,North Lisa,2026-01-07 14:00:00,12,1,1,2
+INT000160,SHOP006286,CUST00391,Jamie Smith,smithjohn@example.net,Lindseybury,2026-01-07 15:00:00,6,0,0,0
+INT000161,SHOP017376,CUST00349,Paul Castaneda,ogreer@example.net,South Tammy,2026-01-07 16:00:00,20,1,0,0
+INT000162,SHOP019666,CUST00008,Jennifer Adkins,kari89@example.org,West Trevorborough,2026-01-07 17:00:00,13,0,1,3
+INT000163,SHOP011350,CUST00321,Lindsey Walker,kellythompson@example.net,East Traceyfurt,2026-01-07 18:00:00,20,0,0,0
+INT000164,SHOP001337,CUST00313,Jeffrey Johnson,lopezglenn@example.net,Port Joshuahaven,2026-01-07 19:00:00,16,0,0,0
+INT000165,SHOP019781,CUST00247,Michael Powell,bennettroy@example.net,Jacksonborough,2026-01-07 20:00:00,18,0,1,2
+INT000166,SHOP016783,CUST00323,John Anderson,david94@example.org,North Brianna,2026-01-07 21:00:00,10,1,0,0
+INT000167,SHOP004438,CUST00472,Alyssa Long,steven20@example.org,East Jordanshire,2026-01-07 22:00:00,8,1,0,0
+INT000168,SHOP014256,CUST00471,Alyssa Day,candice94@example.com,New Jessica,2026-01-07 23:00:00,18,0,0,0
+INT000169,SHOP013578,CUST00443,Joel Williams,charles58@example.org,Jamestown,2026-01-08 00:00:00,1,0,0,0
+INT000170,SHOP000555,CUST00255,Daniel Murphy,abigailhartman@example.org,Erinmouth,2026-01-08 01:00:00,8,0,1,3
+INT000171,SHOP005556,CUST00328,Jamie Walton,zdaniels@example.org,South Danielleton,2026-01-08 02:00:00,6,1,0,0
+INT000172,SHOP007093,CUST00054,Darlene Miller,jeffrey35@example.com,Ryanchester,2026-01-08 03:00:00,5,0,0,0
+INT000173,SHOP013650,CUST00249,Joshua Cooke,kelly98@example.com,Davidhaven,2026-01-08 04:00:00,15,0,0,0
+INT000174,SHOP017792,CUST00239,Matthew Harrington,wilsonmichael@example.org,Simpsonhaven,2026-01-08 05:00:00,15,1,0,0
+INT000175,SHOP005492,CUST00229,Nicole Herring,susanfleming@example.com,Lake Jeffreyview,2026-01-08 06:00:00,2,0,0,0
+INT000176,SHOP004632,CUST00067,Alex Hernandez,hmoon@example.com,Patelmouth,2026-01-08 07:00:00,1,0,1,1
+INT000177,SHOP019595,CUST00051,Michael Elliott,amber40@example.net,South Jamesland,2026-01-08 08:00:00,11,0,0,0
+INT000178,BOOK000203,CUST00097,Michael Wang,willie87@example.com,Lake Jeremiahchester,2026-01-08 09:00:00,10,1,0,0
+INT000179,SHOP011148,CUST00092,Lawrence Adkins,phillipsdenise@example.com,East Jamesmouth,2026-01-08 10:00:00,18,0,0,0
+INT000180,SHOP020303,CUST00495,Robert Oconnell,vaughangary@example.net,Bryanville,2026-01-08 11:00:00,18,0,0,0
+INT000181,SHOP012389,CUST00264,Alexander Collins,simsjason@example.net,South Ryantown,2026-01-08 12:00:00,17,0,0,0
+INT000182,SHOP004090,CUST00418,Tina Sanders,michellecoleman@example.org,Marybury,2026-01-08 13:00:00,8,0,0,0
+INT000183,SHOP002028,CUST00291,Angela Vaughn,amandapark@example.net,South Johnmouth,2026-01-08 14:00:00,15,0,0,0
+INT000184,SHOP007705,CUST00096,Ashley Barton,elucas@example.net,Port Matthewbury,2026-01-08 15:00:00,8,0,0,0
+INT000185,SHOP019016,CUST00088,Lindsay Martinez,andrewlove@example.org,Port Carolmouth,2026-01-08 16:00:00,17,0,0,0
+INT000186,SHOP007478,CUST00078,Dr. Hannah Patterson,jonesgregory@example.com,Lake Seanville,2026-01-08 17:00:00,12,0,0,0
+INT000187,BOOK000198,CUST00288,Jonathan Peterson,andrewsjeremy@example.com,North Sabrinafurt,2026-01-08 18:00:00,8,0,0,0
+INT000188,SHOP001631,CUST00120,Samantha Garcia,ohughes@example.com,Pamelaland,2026-01-08 19:00:00,14,0,0,0
+INT000189,SHOP011475,CUST00302,Madison Poole,ystewart@example.net,North Samantha,2026-01-08 20:00:00,4,1,1,1
+INT000190,SHOP014788,CUST00491,Jessica Gross,nicholsdarlene@example.net,Brownchester,2026-01-08 21:00:00,1,0,0,0
+INT000191,SHOP009040,CUST00400,Debra Morton,avilabrenda@example.net,North Ericaside,2026-01-08 22:00:00,1,1,1,2
+INT000192,SHOP011290,CUST00452,Karen Graham,howardwesley@example.com,West Melissafurt,2026-01-08 23:00:00,19,1,0,0
+INT000193,SHOP018596,CUST00500,Debra Christian,catherine47@example.com,New Karenbury,2026-01-09 00:00:00,16,0,0,0
+INT000194,SHOP015409,CUST00165,Angelica Keith,bshort@example.com,South Patrickchester,2026-01-09 01:00:00,14,0,1,2
+INT000195,SHOP016744,CUST00182,John Bishop,amandataylor@example.com,West Debratown,2026-01-09 02:00:00,16,0,0,0
+INT000196,SHOP002512,CUST00469,Allen Rosales,susan24@example.net,Holmesshire,2026-01-09 03:00:00,5,0,1,1
+INT000197,SHOP013944,CUST00398,Daniel Salinas,susan08@example.net,North Curtis,2026-01-09 04:00:00,9,0,0,0
+INT000198,SHOP006247,CUST00223,Spencer Haynes,davidsmith@example.net,New Kristineborough,2026-01-09 05:00:00,2,0,0,0
+INT000199,SHOP001687,CUST00311,Adam Vaughan,fmedina@example.com,Lake William,2026-01-09 06:00:00,18,0,0,0
+INT000200,SHOP008039,CUST00432,Nathan Freeman,kaitlinberger@example.com,Robertmouth,2026-01-09 07:00:00,6,1,0,0
+INT000201,SHOP011112,CUST00466,Melissa Brewer,robertbrewer@example.net,East Devin,2026-01-09 08:00:00,9,0,0,0
+INT000202,SHOP002612,CUST00007,Ricky Davis II,eugenewalker@example.com,North Davidshire,2026-01-09 09:00:00,1,1,0,0
+INT000203,SHOP001435,CUST00330,Elizabeth Perkins,dannylambert@example.net,Palmerstad,2026-01-09 10:00:00,9,0,0,0
+INT000204,SHOP017928,CUST00263,Joseph Coleman,yorksarah@example.net,Brandyside,2026-01-09 11:00:00,16,1,0,0
+INT000205,SHOP008381,CUST00161,Erin Warner,enewman@example.com,East Terrance,2026-01-09 12:00:00,13,0,0,0
+INT000206,SHOP019061,CUST00151,David Martinez,kingjames@example.net,Kellytown,2026-01-09 13:00:00,9,0,0,0
+INT000207,SHOP018044,CUST00085,Bryan Herrera,wlynn@example.org,North John,2026-01-09 14:00:00,13,0,1,3
+INT000208,SHOP005460,CUST00147,Cathy Robinson,craigharvey@example.org,South Mauriceborough,2026-01-09 15:00:00,9,0,0,0
+INT000209,SHOP002086,CUST00112,Dr. William Warren,todd59@example.net,Port Casey,2026-01-09 16:00:00,11,0,1,1
+INT000210,SHOP010812,CUST00381,Brian Lee,heather29@example.net,Lake Thomas,2026-01-09 17:00:00,4,1,1,2
+INT000211,SHOP004437,CUST00403,Christopher Smith,lindsey62@example.org,Greenemouth,2026-01-09 18:00:00,2,0,0,0
+INT000212,SHOP001503,CUST00036,Denise Mccann,john36@example.com,Christinachester,2026-01-09 19:00:00,6,0,0,0
+INT000213,SHOP007856,CUST00285,Melissa Martinez,dennis57@example.com,Francismouth,2026-01-09 20:00:00,14,1,0,0
+INT000214,SHOP007821,CUST00188,Katherine Salas,thoward@example.com,South Jeffreytown,2026-01-09 21:00:00,4,1,0,0
+INT000215,SHOP006317,CUST00082,Julie Alexander,thompsoncatherine@example.com,Lake Jerry,2026-01-09 22:00:00,6,0,0,0
+INT000216,SHOP013958,CUST00002,Anthony Everett,patriciagonzalez@example.net,East Timothy,2026-01-09 23:00:00,19,0,0,0
+INT000217,SHOP014187,CUST00385,Rodney Morales,lunapatricia@example.net,Lindsayfurt,2026-01-10 00:00:00,6,0,0,0
+INT000218,SHOP020146,CUST00303,Mark Brown,hessbeth@example.net,South Jack,2026-01-10 01:00:00,2,0,0,0
+INT000219,SHOP016347,CUST00197,Justin Torres,rebeccaarnold@example.net,West Alejandrostad,2026-01-10 02:00:00,18,1,0,0
+INT000220,SHOP013776,CUST00404,Bailey Duran DDS,jvaldez@example.com,New Dariusport,2026-01-10 03:00:00,13,1,0,0
+INT000221,SHOP008909,CUST00011,Courtney Mills,xwalker@example.net,Leeshire,2026-01-10 04:00:00,9,1,0,0
+INT000222,SHOP016072,CUST00234,Jeremy Dalton,dennis88@example.org,Bradleytown,2026-01-10 05:00:00,19,1,0,0
+INT000223,SHOP011536,CUST00386,Elizabeth Oliver DDS,acox@example.net,East Justin,2026-01-10 06:00:00,13,0,0,0
+INT000224,SHOP012869,CUST00195,Theresa Clark,melaniedrake@example.net,West Jennifer,2026-01-10 07:00:00,11,1,0,0
+INT000225,SHOP001750,CUST00471,Matthew Moore,katherinetaylor@example.org,Melaniebury,2026-01-10 08:00:00,1,1,0,0
+INT000226,SHOP005124,CUST00119,Benjamin Smith,ashleyknight@example.org,East Andrew,2026-01-10 09:00:00,7,0,0,0
+INT000227,SHOP014290,CUST00396,Kirk Carter,ccrosby@example.org,Reneetown,2026-01-10 10:00:00,15,1,0,0
+INT000228,SHOP019193,CUST00020,Michael Warner,qhall@example.com,South Diana,2026-01-10 11:00:00,1,0,0,0
+INT000229,SHOP006859,CUST00261,Michael Bradshaw,bradclark@example.com,West Sharonport,2026-01-10 12:00:00,12,0,0,0
+INT000230,SHOP009949,CUST00293,Lori Guerrero,dharrison@example.org,Allenstad,2026-01-10 13:00:00,7,1,0,0
+INT000231,SHOP007101,CUST00422,Jessica Stephens,hoopermario@example.net,New Tiffany,2026-01-10 14:00:00,15,0,0,0
+INT000232,SHOP019255,CUST00256,Susan Serrano,mary49@example.net,Johnsland,2026-01-10 15:00:00,19,0,0,0
+INT000233,SHOP009575,CUST00222,Christopher Parker,nicholasgray@example.net,East Nicoleberg,2026-01-10 16:00:00,1,0,0,0
+INT000234,SHOP014852,CUST00393,Laura Roberts,blacknicholas@example.org,East Amanda,2026-01-10 17:00:00,17,0,0,0
+INT000235,SHOP018340,CUST00226,Michael Lyons,wgomez@example.com,Louischester,2026-01-10 18:00:00,17,1,1,2
+INT000236,SHOP000855,CUST00053,Kathryn Snyder,aeaton@example.net,North Kathryn,2026-01-10 19:00:00,3,0,0,0
+INT000237,SHOP004200,CUST00428,Andrew Reynolds,scotthall@example.net,Port Amanda,2026-01-10 20:00:00,12,0,0,0
+INT000238,SHOP005996,CUST00355,David Davis,jason22@example.com,West John,2026-01-10 21:00:00,6,1,0,0
+INT000239,SHOP011884,CUST00500,Sara Johnston,guerrerorobert@example.com,Moniquehaven,2026-01-10 22:00:00,11,0,0,0
+INT000240,SHOP012575,CUST00342,Yvonne Chambers,olsontimothy@example.org,Clarkland,2026-01-10 23:00:00,3,0,0,0
+INT000241,SHOP017733,CUST00364,Andrew Avila,deborahjenkins@example.org,Gibbsland,2026-01-11 00:00:00,8,0,0,0
+INT000242,SHOP005240,CUST00280,Matthew Moon,andersonbrittany@example.org,New Paul,2026-01-11 01:00:00,14,1,0,0
+INT000243,SHOP009338,CUST00081,Kevin Walters,macdonalddylan@example.org,Victormouth,2026-01-11 02:00:00,14,0,0,0
+INT000244,SHOP020284,CUST00202,Brandon Bailey MD,sandra86@example.net,West Jennifer,2026-01-11 03:00:00,10,0,0,0
+INT000245,SHOP015287,CUST00158,Shannon Rivera,johnsjessica@example.com,Baldwinfort,2026-01-11 04:00:00,2,0,1,1
+INT000246,SHOP002258,CUST00120,Donna Landry,robinsoncatherine@example.com,Adamsfurt,2026-01-11 05:00:00,14,0,1,1
+INT000247,SHOP005293,CUST00059,Krista Gibson,ajackson@example.net,East Jeffreyborough,2026-01-11 06:00:00,9,0,0,0
+INT000248,SHOP016183,CUST00494,Frank Cordova,laurahoover@example.org,Royfurt,2026-01-11 07:00:00,3,0,0,0
+INT000249,SHOP001901,CUST00215,Jose Travis,gary57@example.net,West Ronald,2026-01-11 08:00:00,8,0,0,0
+INT000250,SHOP013873,CUST00128,Kimberly Gutierrez,hallpaul@example.org,Duncanstad,2026-01-11 09:00:00,16,1,0,0
+INT000251,SHOP002662,CUST00224,Isaiah Avila,harrismichele@example.net,Andreaberg,2026-01-11 10:00:00,2,0,0,0
+INT000252,SHOP013908,CUST00209,Olivia Harris,mserrano@example.org,West Seanstad,2026-01-11 11:00:00,6,1,0,0
+INT000253,SHOP011670,CUST00370,Tanya Kim,thomasmendez@example.org,New Blake,2026-01-11 12:00:00,12,1,0,0
+INT000254,SHOP002570,CUST00115,Barbara Dudley,davisdonna@example.net,Ronaldmouth,2026-01-11 13:00:00,5,1,1,3
+INT000255,SHOP017041,CUST00209,Cynthia Moore,princekimberly@example.net,Ortizfort,2026-01-11 14:00:00,2,0,0,0
+INT000256,SHOP013693,CUST00014,Kristen Davis,xboyd@example.org,Joshuatown,2026-01-11 15:00:00,16,0,0,0
+INT000257,SHOP005400,CUST00009,Susan Murray MD,zperez@example.com,South Jesus,2026-01-11 16:00:00,5,0,0,0
+INT000258,SHOP003688,CUST00040,Kathleen Moran,zbell@example.net,West Rachelport,2026-01-11 17:00:00,15,0,0,0
+INT000259,SHOP013147,CUST00450,Denise Davenport,colemanjonathan@example.org,Port Joshuabury,2026-01-11 18:00:00,12,0,0,0
+INT000260,SHOP000919,CUST00237,Mrs. Kristen Reyes,campbellnancy@example.com,North Charleston,2026-01-11 19:00:00,4,1,0,0
+INT000261,SHOP004436,CUST00281,Katie Suarez,jacob09@example.net,West James,2026-01-11 20:00:00,15,1,0,0
+INT000262,SHOP010997,CUST00359,Desiree Tyler,meyernicholas@example.org,Johnview,2026-01-11 21:00:00,11,0,1,2
+INT000263,SHOP004256,CUST00201,Timothy Romero,robert12@example.com,Lake Cassandra,2026-01-11 22:00:00,16,0,0,0
+INT000264,SHOP008847,CUST00246,Diane Evans,jose86@example.net,Port Karen,2026-01-11 23:00:00,6,1,0,0
+INT000265,SHOP007751,CUST00278,Yvonne Burns,cheryl63@example.com,Alanport,2026-01-12 00:00:00,14,0,0,0
+INT000266,SHOP012458,CUST00235,Joshua Reed,jwhite@example.net,Lynnfurt,2026-01-12 01:00:00,18,0,1,2
+INT000267,SHOP019531,CUST00494,Kimberly Gibson,tking@example.net,Underwoodtown,2026-01-12 02:00:00,12,1,0,0
+INT000268,SHOP017130,CUST00004,Colin Terry,kim62@example.net,Valdezberg,2026-01-12 03:00:00,11,0,0,0
+INT000269,SHOP006594,CUST00154,Cynthia Rowe,adkinssean@example.net,Perezborough,2026-01-12 04:00:00,13,0,1,3
+INT000270,SHOP017778,CUST00442,Patrick Thornton,craigromero@example.com,Hallshire,2026-01-12 05:00:00,11,0,0,0
+INT000271,SHOP014074,CUST00029,Jasmin Alvarado,martintamara@example.org,Sharpmouth,2026-01-12 06:00:00,16,1,1,3
+INT000272,SHOP014266,CUST00109,Veronica Simpson,morrowthomas@example.net,Latoyamouth,2026-01-12 07:00:00,15,0,0,0
+INT000273,SHOP003137,CUST00098,Jonathan Lawrence,qdavis@example.org,South Kayla,2026-01-12 08:00:00,15,0,0,0
+INT000274,SHOP008455,CUST00215,Shelly Alexander,christopher06@example.com,Clarkmouth,2026-01-12 09:00:00,4,0,0,0
+INT000275,SHOP010378,CUST00293,Joyce Bowen,jennifer90@example.org,West Donberg,2026-01-12 10:00:00,11,0,0,0
+INT000276,SHOP005596,CUST00075,Matthew Moore,mgonzales@example.net,Sherrytown,2026-01-12 11:00:00,19,0,0,0
+INT000277,SHOP019439,CUST00326,Wayne Morgan,james98@example.net,Cochranstad,2026-01-12 12:00:00,15,1,0,0
+INT000278,SHOP016310,CUST00146,Marie Christian,christinacraig@example.com,Jeremiahchester,2026-01-12 13:00:00,4,0,0,0
+INT000279,SHOP015337,CUST00128,Shannon James,dianacantrell@example.org,Farmerside,2026-01-12 14:00:00,13,1,0,0
+INT000280,SHOP006723,CUST00341,Nathan Malone,kimberly56@example.com,Marktown,2026-01-12 15:00:00,19,0,1,3
+INT000281,SHOP008852,CUST00042,Amanda Jones,aprilmclaughlin@example.org,East Ericmouth,2026-01-12 16:00:00,2,0,1,3
+INT000282,SHOP005301,CUST00356,Tammie Bright,dunnjessica@example.net,Bairdborough,2026-01-12 17:00:00,14,0,0,0
+INT000283,SHOP007697,CUST00041,Jessica Garcia,michael43@example.net,Brownfurt,2026-01-12 18:00:00,4,0,1,3
+INT000284,SHOP008708,CUST00422,Shelia Wallace,shawnpowell@example.org,South Daniel,2026-01-12 19:00:00,16,0,0,0
+INT000285,SHOP012647,CUST00034,Stephanie Williams,gregory81@example.net,Fowlerport,2026-01-12 20:00:00,20,0,0,0
+INT000286,SHOP004343,CUST00017,Elaine Brooks,gordonmatthew@example.org,East Damonside,2026-01-12 21:00:00,14,0,0,0
+INT000287,SHOP011013,CUST00165,Joseph Knight,nancy94@example.net,North Margaret,2026-01-12 22:00:00,15,0,0,0
+INT000288,SHOP007380,CUST00153,Carolyn Miller,kchurch@example.com,Johnsonborough,2026-01-12 23:00:00,3,0,0,0
+INT000289,SHOP007909,CUST00486,Lisa Allen,katherineali@example.com,South Justinbury,2026-01-13 00:00:00,8,1,0,0
+INT000290,SHOP018290,CUST00378,Briana Murray,bmosley@example.com,Donnaland,2026-01-13 01:00:00,16,1,0,0
+INT000291,SHOP010417,CUST00076,David Smith,scottpatrick@example.org,Brownhaven,2026-01-13 02:00:00,10,0,0,0
+INT000292,SHOP017154,CUST00087,Stephanie Byrd,laurengutierrez@example.com,East Markchester,2026-01-13 03:00:00,4,0,0,0
+INT000293,SHOP003145,CUST00117,Jeremy Reed,haynesjose@example.com,Mooreville,2026-01-13 04:00:00,18,0,1,2
+INT000294,SHOP010458,CUST00362,Margaret Coleman,rosskaitlyn@example.com,New Robert,2026-01-13 05:00:00,2,0,0,0
+INT000295,SHOP014135,CUST00342,Ryan Gonzalez,spencergregory@example.com,South Stephanieborough,2026-01-13 06:00:00,17,0,1,3
+INT000296,SHOP000761,CUST00469,John Young,jeffery94@example.org,Port Jamie,2026-01-13 07:00:00,13,1,1,2
+INT000297,SHOP018412,CUST00027,Laura Haney,victorgonzalez@example.net,Meyersfort,2026-01-13 08:00:00,4,0,1,2
+INT000298,SHOP003121,CUST00313,William Barrett,moniqueclark@example.org,New Barbara,2026-01-13 09:00:00,11,0,1,2
+INT000299,SHOP000002,CUST00287,Keith Jennings,marykelly@example.org,Brianahaven,2026-01-13 10:00:00,7,1,1,2
+INT000300,SHOP012169,CUST00134,Amber Obrien,moraemma@example.net,Hilltown,2026-01-13 11:00:00,12,0,0,0
+INT000301,SHOP016691,CUST00219,Tanner Mitchell DDS,waustin@example.net,South Caleb,2026-01-13 12:00:00,10,1,0,0
+INT000302,SHOP019255,CUST00168,Heather Fields,charlesnathan@example.com,Jacobsbury,2026-01-13 13:00:00,7,0,0,0
+INT000303,SHOP000400,CUST00098,Megan Le,kvillanueva@example.com,Reneefort,2026-01-13 14:00:00,13,0,0,0
+INT000304,BOOK000191,CUST00268,Sara Fuller,wwhite@example.net,Fordton,2026-01-13 15:00:00,7,0,0,0
+INT000305,SHOP010193,CUST00237,Maria Parker,raymond92@example.org,West Debbiemouth,2026-01-13 16:00:00,17,0,0,0
+INT000306,SHOP017065,CUST00309,Kevin Oconnor,imendoza@example.org,Isabellaport,2026-01-13 17:00:00,10,1,1,2
+INT000307,SHOP002676,CUST00455,Edward Burgess,phillip27@example.org,Austinburgh,2026-01-13 18:00:00,10,0,1,2
+INT000308,SHOP005803,CUST00394,Carlos Ryan,astewart@example.org,Wrightchester,2026-01-13 19:00:00,4,1,1,3
+INT000309,SHOP017269,CUST00173,Kiara Mcintyre,nicolasgarcia@example.com,Cruzburgh,2026-01-13 20:00:00,20,0,0,0
+INT000310,SHOP019412,CUST00401,Dawn Summers,jacob43@example.com,South Hollyton,2026-01-13 21:00:00,4,0,0,0
+INT000311,SHOP019479,CUST00410,Dr. Paul Morgan,vmullen@example.com,Port Eric,2026-01-13 22:00:00,7,0,0,0
+INT000312,SHOP001517,CUST00469,Victor Taylor,victorclark@example.net,Elizabethland,2026-01-13 23:00:00,1,0,0,0
+INT000313,SHOP000270,CUST00476,Shannon Ramsey,michael64@example.com,South Robert,2026-01-14 00:00:00,12,1,0,0
+INT000314,SHOP005143,CUST00190,Tracy Ballard,ashleykrause@example.net,West Charlesville,2026-01-14 01:00:00,13,0,0,0
+INT000315,SHOP001596,CUST00122,Richard Smith,lisale@example.org,Robertburgh,2026-01-14 02:00:00,10,0,1,1
+INT000316,SHOP018818,CUST00046,Jordan Chambers,mchase@example.org,Jaredton,2026-01-14 03:00:00,15,0,0,0
+INT000317,SHOP003564,CUST00064,Lauren Carson,thomassmith@example.com,Johnsonmouth,2026-01-14 04:00:00,13,0,0,0
+INT000318,SHOP012614,CUST00130,Ashley Hall,otaylor@example.net,Cooperfurt,2026-01-14 05:00:00,9,0,0,0
+INT000319,SHOP007156,CUST00310,Stephen Hoffman,kristen44@example.net,South Benjamin,2026-01-14 06:00:00,9,0,0,0
+INT000320,SHOP003715,CUST00363,Connie Brown,rosshannah@example.org,Dannyberg,2026-01-14 07:00:00,15,1,0,0
+INT000321,SHOP010794,CUST00193,Susan Turner,lisawoods@example.net,Ellenmouth,2026-01-14 08:00:00,10,0,1,1
+INT000322,SHOP017771,CUST00307,Charles Shah,colematthew@example.com,Murrayland,2026-01-14 09:00:00,10,0,0,0
+INT000323,SHOP002710,CUST00181,Johnathan Davis,ann45@example.org,Lake Stephanie,2026-01-14 10:00:00,8,0,0,0
+INT000324,SHOP016239,CUST00292,Brandy Chavez,rmartinez@example.net,South Lori,2026-01-14 11:00:00,16,0,0,0
+INT000325,SHOP010430,CUST00371,Natalie Bautista,barbarasantos@example.net,East Mary,2026-01-14 12:00:00,17,1,0,0
+INT000326,SHOP001110,CUST00282,Patrick Moore,tiffanymitchell@example.com,East Kellyside,2026-01-14 13:00:00,5,0,0,0
+INT000327,SHOP011950,CUST00029,Brett Burns,champton@example.org,Jacksontown,2026-01-14 14:00:00,4,0,0,0
+INT000328,SHOP000485,CUST00149,Trevor Johnson,daustin@example.net,Ericstad,2026-01-14 15:00:00,18,0,0,0
+INT000329,SHOP007797,CUST00267,Jeremy Sampson,mirandadavidson@example.com,East Jennifer,2026-01-14 16:00:00,19,0,0,0
+INT000330,SHOP007261,CUST00296,Ariana Jennings,kwelch@example.com,South Heather,2026-01-14 17:00:00,4,0,0,0
+INT000331,SHOP012234,CUST00011,Vanessa Howard,millermatthew@example.com,South Hannahmouth,2026-01-14 18:00:00,7,1,0,0
+INT000332,SHOP007044,CUST00164,Colton Martinez,denise49@example.net,New Adamfurt,2026-01-14 19:00:00,10,1,1,1
+INT000333,SHOP006907,CUST00113,Jordan Bates,cnelson@example.com,East Nicholas,2026-01-14 20:00:00,18,1,0,0
+INT000334,SHOP005502,CUST00187,Linda Smith,lgutierrez@example.org,East Christopher,2026-01-14 21:00:00,19,0,0,0
+INT000335,SHOP018891,CUST00295,Dana Martinez,jessicastanley@example.net,Johnsontown,2026-01-14 22:00:00,4,0,0,0
+INT000336,SHOP016622,CUST00232,Andrea Hubbard,clarkrandy@example.org,Loriland,2026-01-14 23:00:00,10,0,0,0
+INT000337,SHOP005687,CUST00227,Daniel Kane,zunigathomas@example.org,North Laura,2026-01-15 00:00:00,1,0,0,0
+INT000338,SHOP017926,CUST00310,Charles Lester,wisealexandria@example.org,Lake Gary,2026-01-15 01:00:00,18,1,0,0
+INT000339,SHOP010348,CUST00098,Scott Thomas,bakereric@example.net,Huntmouth,2026-01-15 02:00:00,5,0,0,0
+INT000340,SHOP008417,CUST00055,David Thompson,pparker@example.net,Annaborough,2026-01-15 03:00:00,15,1,1,2
+INT000341,SHOP019035,CUST00111,Allison Smith,scott22@example.net,New Randall,2026-01-15 04:00:00,17,1,0,0
+INT000342,SHOP012024,CUST00152,Cynthia Morris,anthonyalvarado@example.com,Martinezborough,2026-01-15 05:00:00,3,0,1,1
+INT000343,SHOP004481,CUST00246,Anthony Harmon,imcdonald@example.com,West Marcustown,2026-01-15 06:00:00,12,0,0,0
+INT000344,SHOP002069,CUST00406,Nichole Alvarez,staylor@example.net,Valdeztown,2026-01-15 07:00:00,2,0,1,2
+INT000345,SHOP011740,CUST00069,Kayla Rodriguez,brittanybryant@example.net,Lewisbury,2026-01-15 08:00:00,1,0,1,3
+INT000346,SHOP006356,CUST00312,Theresa Williams,omills@example.net,Lake Lisastad,2026-01-15 09:00:00,17,1,0,0
+INT000347,SHOP007874,CUST00289,Sharon Boyd,regina78@example.org,North Nicolechester,2026-01-15 10:00:00,16,0,1,3
+INT000348,SHOP004196,CUST00250,Victor Brown,ramosmichael@example.com,Katrinafort,2026-01-15 11:00:00,5,0,0,0
+INT000349,SHOP010594,CUST00036,James Parks,kevinsmith@example.org,Lake Amandashire,2026-01-15 12:00:00,15,0,1,2
+INT000350,SHOP013104,CUST00239,Theodore Jones Jr.,justin80@example.net,West Susan,2026-01-15 13:00:00,3,1,0,0
+INT000351,SHOP012822,CUST00148,Ana Hill,earroyo@example.com,Tinafurt,2026-01-15 14:00:00,7,0,0,0
+INT000352,SHOP010667,CUST00467,Kimberly Nguyen,cannonlauren@example.net,West Gregory,2026-01-15 15:00:00,11,1,0,0
+INT000353,SHOP000554,CUST00227,Kerry Chavez DDS,laurakelley@example.org,Tiffanyfort,2026-01-15 16:00:00,10,0,1,3
+INT000354,SHOP020231,CUST00244,Michael Farrell,bkhan@example.com,West Andresshire,2026-01-15 17:00:00,9,1,0,0
+INT000355,SHOP019854,CUST00491,Patricia Le,frankmclaughlin@example.com,Reyesbury,2026-01-15 18:00:00,14,1,0,0
+INT000356,SHOP016659,CUST00337,Jesse Perez,fwalker@example.com,East Andrewville,2026-01-15 19:00:00,13,0,0,0
+INT000357,SHOP017233,CUST00446,Jesse Perry,zacharymarsh@example.net,Joelchester,2026-01-15 20:00:00,2,0,1,3
+INT000358,SHOP009608,CUST00365,Jeffery Ortega,justin84@example.com,New Christopher,2026-01-15 21:00:00,3,1,0,0
+INT000359,SHOP004478,CUST00491,Christian Leblanc,melissawhite@example.com,West Victor,2026-01-15 22:00:00,7,0,0,0
+INT000360,SHOP019939,CUST00482,Ronald Davis,walshchristine@example.com,East Nicholas,2026-01-15 23:00:00,18,1,0,0
+INT000361,SHOP015039,CUST00201,Parker Cain,blopez@example.org,East Sandramouth,2026-01-16 00:00:00,3,0,0,0
+INT000362,SHOP002192,CUST00154,Laurie Hoffman,bookerandrew@example.org,Dennismouth,2026-01-16 01:00:00,10,1,0,0
+INT000363,SHOP015029,CUST00450,Bryan Gomez,joseph70@example.org,New Latoyachester,2026-01-16 02:00:00,7,1,1,2
+INT000364,SHOP014300,CUST00073,Nicole Parrish,hernandeztristan@example.com,Karenbury,2026-01-16 03:00:00,9,1,0,0
+INT000365,SHOP019209,CUST00201,Tracy Burke,zcollins@example.com,Matthewborough,2026-01-16 04:00:00,17,0,0,0
+INT000366,SHOP002752,CUST00296,Kenneth Lewis,steven05@example.org,Lake Vanessabury,2026-01-16 05:00:00,11,0,0,0
+INT000367,SHOP015680,CUST00017,Courtney Rodriguez,brianrowe@example.org,Boydburgh,2026-01-16 06:00:00,7,0,0,0
+INT000368,SHOP016089,CUST00129,Holly Farmer,qwhite@example.com,Sotoland,2026-01-16 07:00:00,14,0,0,0
+INT000369,SHOP000577,CUST00217,Renee Bruce,martinezkayla@example.org,Jonesborough,2026-01-16 08:00:00,19,0,0,0
+INT000370,SHOP003843,CUST00061,Sabrina Austin,cwise@example.org,Lake Victoriaborough,2026-01-16 09:00:00,4,0,0,0
+INT000371,SHOP014903,CUST00427,Allison Hickman,gonzalezjill@example.org,North Glenn,2026-01-16 10:00:00,6,1,1,3
+INT000372,SHOP006667,CUST00104,Debra White,thomasmaldonado@example.com,East William,2026-01-16 11:00:00,10,0,0,0
+INT000373,SHOP006780,CUST00042,Ellen Morgan,eric08@example.net,Hardyport,2026-01-16 12:00:00,7,0,1,3
+INT000374,SHOP007688,CUST00025,Sergio Knight,kingdanielle@example.org,Lake James,2026-01-16 13:00:00,13,0,1,2
+INT000375,SHOP006500,CUST00039,Charles Schultz,paige31@example.org,Thompsonbury,2026-01-16 14:00:00,14,0,0,0
+INT000376,SHOP004166,CUST00291,Paul Lewis,knguyen@example.com,Justinmouth,2026-01-16 15:00:00,4,0,1,3
+INT000377,SHOP016720,CUST00131,Glen Wood,fosterjohn@example.org,West Michelle,2026-01-16 16:00:00,8,1,0,0
+INT000378,SHOP013118,CUST00498,Paula Bradley,jbarker@example.com,Millerstad,2026-01-16 17:00:00,5,1,0,0
+INT000379,SHOP017778,CUST00229,Anthony Moore,wrightvincent@example.net,Grayfort,2026-01-16 18:00:00,1,0,0,0
+INT000380,SHOP008012,CUST00108,Megan Nelson,sarah00@example.com,Hendersonchester,2026-01-16 19:00:00,4,0,0,0
+INT000381,SHOP016915,CUST00172,Karla Ramos,jacquelinemoody@example.org,Port Stephanie,2026-01-16 20:00:00,3,1,0,0
+INT000382,SHOP013799,CUST00435,Paul Wilson,jhall@example.net,Smithfurt,2026-01-16 21:00:00,9,0,0,0
+INT000383,SHOP004878,CUST00478,Douglas Gregory,linda73@example.org,Dickersonport,2026-01-16 22:00:00,8,0,0,0
+INT000384,SHOP013963,CUST00102,Mr. Andrew Foster,ihoward@example.com,New Jessica,2026-01-16 23:00:00,1,0,0,0
+INT000385,SHOP008009,CUST00354,Aimee Turner,washingtonsamuel@example.com,Oscarport,2026-01-17 00:00:00,6,0,1,1
+INT000386,SHOP005650,CUST00012,Chad Scott,llopez@example.net,Campbellside,2026-01-17 01:00:00,9,0,0,0
+INT000387,SHOP018923,CUST00275,Adam Burgess,mario74@example.net,Jonesberg,2026-01-17 02:00:00,7,0,0,0
+INT000388,SHOP000851,CUST00101,James Padilla,caseymoore@example.com,Gonzalezborough,2026-01-17 03:00:00,4,0,0,0
+INT000389,SHOP001632,CUST00044,Sandra Drake,amber70@example.net,North Michellestad,2026-01-17 04:00:00,13,1,0,0
+INT000390,SHOP008905,CUST00443,Scott Williams,bgross@example.net,Sullivanchester,2026-01-17 05:00:00,17,0,0,0
+INT000391,SHOP017749,CUST00305,Thomas Atkins,kimberly35@example.net,Wallerstad,2026-01-17 06:00:00,2,1,1,3
+INT000392,SHOP000782,CUST00445,Laura Mckinney,barrettamber@example.com,Burnsshire,2026-01-17 07:00:00,5,1,0,0
+INT000393,SHOP016597,CUST00017,Brian Smith,alexandriajimenez@example.net,South Nicoleville,2026-01-17 08:00:00,12,0,0,0
+INT000394,SHOP013108,CUST00330,Robert Montgomery,chloemorris@example.net,Frederickburgh,2026-01-17 09:00:00,8,0,1,3
+INT000395,SHOP007506,CUST00057,Tamara Davis,daniel81@example.org,Port Samuel,2026-01-17 10:00:00,6,0,1,1
+INT000396,SHOP004938,CUST00311,Dana Chapman,gregoryjohnson@example.org,Kelseystad,2026-01-17 11:00:00,8,0,0,0
+INT000397,SHOP016644,CUST00497,Jennifer Collins,clee@example.net,Reidstad,2026-01-17 12:00:00,18,1,0,0
+INT000398,SHOP019757,CUST00303,Gary Jackson,hbarrett@example.net,Lake Paulchester,2026-01-17 13:00:00,3,0,0,0
+INT000399,SHOP012476,CUST00012,Ashley Hicks,brandon39@example.net,East Tim,2026-01-17 14:00:00,12,1,0,0
+INT000400,SHOP015945,CUST00318,Hannah Luna,smithsamantha@example.net,Crystaltown,2026-01-17 15:00:00,3,0,0,0
+INT000401,SHOP012885,CUST00080,Robin Young,fhebert@example.com,West Catherine,2026-01-17 16:00:00,6,0,0,0
+INT000402,SHOP003044,CUST00216,Craig Morrison,wardjulia@example.com,West John,2026-01-17 17:00:00,2,0,1,3
+INT000403,SHOP013201,CUST00339,Mary Thompson,laura09@example.com,North Darryl,2026-01-17 18:00:00,12,0,0,0
+INT000404,SHOP020155,CUST00264,Kathleen Webster,navarromary@example.org,Lake Jenniferfurt,2026-01-17 19:00:00,2,0,0,0
+INT000405,SHOP009363,CUST00479,Joann Glass,susandavis@example.net,Mccarthyland,2026-01-17 20:00:00,6,0,0,0
+INT000406,SHOP016665,CUST00149,Madison Weber,amandalopez@example.net,South Gabriel,2026-01-17 21:00:00,17,0,0,0
+INT000407,SHOP014826,CUST00081,Lori Hernandez,ashleymeza@example.net,Kingport,2026-01-17 22:00:00,3,0,0,0
+INT000408,SHOP007831,CUST00215,Jeremy Turner,xreese@example.net,Willischester,2026-01-17 23:00:00,2,1,0,0
+INT000409,SHOP019232,CUST00485,Anthony Romero,emily61@example.org,North Daisystad,2026-01-18 00:00:00,20,0,1,3
+INT000410,SHOP001380,CUST00374,Jesse Brown,andreawagner@example.net,West Kaitlyn,2026-01-18 01:00:00,8,1,0,0
+INT000411,SHOP003207,CUST00464,Angela Lin,amandagreene@example.com,Haletown,2026-01-18 02:00:00,12,1,0,0
+INT000412,SHOP012985,CUST00198,Lisa Hunter,andrea55@example.com,Port Travis,2026-01-18 03:00:00,4,1,0,0
+INT000413,SHOP006954,CUST00200,Julian Conner,umckenzie@example.net,North Kimchester,2026-01-18 04:00:00,5,0,0,0
+INT000414,SHOP018829,CUST00025,Joanna Pacheco,annalewis@example.net,Penachester,2026-01-18 05:00:00,13,1,0,0
+INT000415,SHOP009136,CUST00466,Erica Alvarez,michael77@example.com,East Nicholas,2026-01-18 06:00:00,15,0,0,0
+INT000416,SHOP011011,CUST00089,Antonio Garcia,barbertonya@example.net,East Tom,2026-01-18 07:00:00,16,0,0,0
+INT000417,SHOP012997,CUST00268,Gwendolyn Klein,holmesvictoria@example.com,South Ashleyborough,2026-01-18 08:00:00,10,0,1,1
+INT000418,SHOP018226,CUST00143,Carrie Wright,evansjeffrey@example.com,East Brian,2026-01-18 09:00:00,16,1,0,0
+INT000419,SHOP012946,CUST00059,Jeffrey Mills,ingramsherry@example.com,Port Katherine,2026-01-18 10:00:00,12,0,0,0
+INT000420,SHOP010852,CUST00410,Jake Campbell,clintonstevens@example.org,Tonyachester,2026-01-18 11:00:00,17,1,0,0
+INT000421,SHOP010158,CUST00489,George Harper,josephpreston@example.org,Simsville,2026-01-18 12:00:00,16,0,1,1
+INT000422,SHOP002180,CUST00365,Maria Jones,jonathanevans@example.net,North Kelly,2026-01-18 13:00:00,12,1,0,0
+INT000423,SHOP004153,CUST00026,Michael Mitchell,ncarroll@example.net,Martinezland,2026-01-18 14:00:00,8,1,0,0
+INT000424,SHOP005582,CUST00047,Mary Escobar,cummingslaura@example.org,Anthonybury,2026-01-18 15:00:00,20,0,0,0
+INT000425,SHOP013770,CUST00288,Felicia Aguilar,spetersen@example.net,Washingtonville,2026-01-18 16:00:00,3,1,0,0
+INT000426,SHOP002550,CUST00266,Gregory Ponce,larsonkevin@example.net,North Josephtown,2026-01-18 17:00:00,16,0,0,0
+INT000427,SHOP007091,CUST00016,Jenna Larson,dmiller@example.com,North Jasontown,2026-01-18 18:00:00,13,0,0,0
+INT000428,SHOP011623,CUST00199,Emily Bennett,nichole66@example.org,Morrisonview,2026-01-18 19:00:00,19,0,0,0
+INT000429,SHOP002190,CUST00401,Robin Santiago,julieatkinson@example.org,Kennedymouth,2026-01-18 20:00:00,8,0,0,0
+INT000430,SHOP009524,CUST00407,Nancy Jennings,hbrown@example.org,Rogersmouth,2026-01-18 21:00:00,5,0,1,2
+INT000431,SHOP008908,CUST00282,Maria Henderson,amber25@example.net,Lisastad,2026-01-18 22:00:00,20,0,0,0
+INT000432,SHOP009241,CUST00469,Jack White,ericnunez@example.com,Grayton,2026-01-18 23:00:00,8,0,0,0
+INT000433,SHOP016065,CUST00086,Travis Tucker,kmullins@example.net,Morganville,2026-01-19 00:00:00,12,1,0,0
+INT000434,SHOP004312,CUST00250,Chad Jones,walkerkeith@example.com,South Monicafurt,2026-01-19 01:00:00,1,1,1,1
+INT000435,SHOP018924,CUST00391,Ashley Wise,davidmiller@example.net,North Carolyn,2026-01-19 02:00:00,20,1,0,0
+INT000436,SHOP005579,CUST00270,Sophia Johnson,kelleyjose@example.com,Stephaniebury,2026-01-19 03:00:00,6,1,1,2
+INT000437,SHOP016048,CUST00335,Ralph Anderson,iayala@example.org,Shannonfort,2026-01-19 04:00:00,18,1,0,0
+INT000438,SHOP000552,CUST00117,Christopher Guerra,fhansen@example.com,Kellertown,2026-01-19 05:00:00,8,0,0,0
+INT000439,SHOP017772,CUST00007,Rhonda Martin,annshea@example.net,Allenstad,2026-01-19 06:00:00,7,0,1,1
+INT000440,SHOP006534,CUST00137,Jason Rhodes,johnadams@example.com,Port Jillmouth,2026-01-19 07:00:00,1,1,0,0
+INT000441,SHOP011639,CUST00371,Jeremy Mitchell,gail91@example.org,New Todd,2026-01-19 08:00:00,16,0,0,0
+INT000442,SHOP002128,CUST00176,Joann Ferguson,whenderson@example.org,West Ronniefort,2026-01-19 09:00:00,12,0,1,1
+INT000443,SHOP003701,CUST00328,Robert Harrison,melvin04@example.org,Lake Paulborough,2026-01-19 10:00:00,6,0,0,0
+INT000444,SHOP004753,CUST00498,Holly Valentine,christina79@example.org,Port Abigail,2026-01-19 11:00:00,20,0,0,0
+INT000445,SHOP002439,CUST00315,Mrs. Diane Reyes,owilliams@example.org,East Tylerland,2026-01-19 12:00:00,2,0,0,0
+INT000446,SHOP005088,CUST00215,Tracy Montoya,eric11@example.net,Marisaside,2026-01-19 13:00:00,14,0,0,0
+INT000447,SHOP007703,CUST00477,Brenda Wright,sanchezchristine@example.org,Jacksonmouth,2026-01-19 14:00:00,4,0,0,0
+INT000448,SHOP005237,CUST00082,Shelly Spencer,alexander14@example.com,South Elainebury,2026-01-19 15:00:00,1,0,0,0
+INT000449,SHOP013180,CUST00223,Ryan Rosales,njohnson@example.net,East George,2026-01-19 16:00:00,18,0,0,0
+INT000450,SHOP003614,CUST00478,Phillip Nelson,jamesmills@example.com,North Ryantown,2026-01-19 17:00:00,13,0,0,0
+INT000451,SHOP017151,CUST00372,Brittany Kim,jdean@example.net,West Raven,2026-01-19 18:00:00,2,1,0,0
+INT000452,SHOP010337,CUST00423,Courtney Hayes,bennettrebecca@example.net,Jeffreyview,2026-01-19 19:00:00,9,0,1,3
+INT000453,SHOP020192,CUST00483,Alexander Brown,scottbrian@example.org,Lynnville,2026-01-19 20:00:00,2,0,0,0
+INT000454,SHOP005427,CUST00402,Cynthia Vang,brian01@example.com,New Cynthia,2026-01-19 21:00:00,9,1,1,3
+INT000455,SHOP003074,CUST00443,Alfred Galvan,elizabeth51@example.org,Davismouth,2026-01-19 22:00:00,1,0,0,0
+INT000456,SHOP011862,CUST00490,Marie Moody,michelle63@example.com,New Katie,2026-01-19 23:00:00,11,0,0,0
+INT000457,SHOP001783,CUST00103,Dustin Gallegos,mckeetodd@example.net,Lake Matthewfurt,2026-01-20 00:00:00,3,0,0,0
+INT000458,SHOP015982,CUST00273,Brenda Thornton,lopezvincent@example.com,Stokesbury,2026-01-20 01:00:00,20,1,0,0
+INT000459,SHOP015006,CUST00014,Aaron Miller,williamssandra@example.com,Darrellland,2026-01-20 02:00:00,4,0,0,0
+INT000460,SHOP009518,CUST00159,Ruben Dunn,tracy20@example.com,North Matthewshire,2026-01-20 03:00:00,18,0,0,0
+INT000461,SHOP010962,CUST00152,Kelsey Rodriguez,michael43@example.net,Lake Sheri,2026-01-20 04:00:00,6,1,0,0
+INT000462,SHOP000118,CUST00483,Eric Williams,lisa46@example.org,Davidmouth,2026-01-20 05:00:00,3,0,1,3
+INT000463,SHOP008509,CUST00108,Riley Bryant,jeremiah56@example.net,Raytown,2026-01-20 06:00:00,11,0,0,0
+INT000464,SHOP020059,CUST00188,Taylor Carlson,christopherreyes@example.net,Bryanside,2026-01-20 07:00:00,15,0,0,0
+INT000465,SHOP002968,CUST00301,Jose Allen,robertberry@example.com,Port Paul,2026-01-20 08:00:00,5,0,0,0
+INT000466,SHOP016910,CUST00098,Jeffrey Mendez,renee57@example.net,Floresstad,2026-01-20 09:00:00,20,0,0,0
+INT000467,SHOP005446,CUST00131,Jason Beck,jamietaylor@example.net,New Elizabeth,2026-01-20 10:00:00,10,0,0,0
+INT000468,SHOP011039,CUST00293,William Jones,michelleparker@example.net,North Randall,2026-01-20 11:00:00,12,1,0,0
+INT000469,SHOP000113,CUST00171,Katie Mcneil,russellstout@example.org,Stewartport,2026-01-20 12:00:00,15,0,1,1
+INT000470,SHOP007244,CUST00424,Jeanette Harrison,lonniegrant@example.net,South Erin,2026-01-20 13:00:00,17,0,0,0
+INT000471,SHOP007288,CUST00474,Veronica King,whitemary@example.org,New Justin,2026-01-20 14:00:00,10,0,0,0
+INT000472,SHOP000429,CUST00183,Richard Cooper,cannonnicole@example.com,New Lukehaven,2026-01-20 15:00:00,6,0,0,0
+INT000473,SHOP011358,CUST00471,Lori Ingram,vturner@example.net,West Wendyshire,2026-01-20 16:00:00,18,0,0,0
+INT000474,SHOP005689,CUST00364,Evelyn Williams,edwin31@example.org,Welchborough,2026-01-20 17:00:00,13,1,0,0
+INT000475,SHOP018589,CUST00039,Robin Thompson,anthonyodom@example.net,Carterfurt,2026-01-20 18:00:00,3,0,0,0
+INT000476,SHOP002668,CUST00015,Julie Dominguez,catherine93@example.net,Port Masonborough,2026-01-20 19:00:00,10,1,0,0
+INT000477,SHOP014228,CUST00376,Robin Brown,jerryjohnson@example.org,Lake Jill,2026-01-20 20:00:00,14,1,0,0
+INT000478,SHOP018871,CUST00497,Judith Carter,manderson@example.com,Port Tony,2026-01-20 21:00:00,6,0,0,0
+INT000479,SHOP015749,CUST00004,Curtis Williams,jack67@example.com,Evansburgh,2026-01-20 22:00:00,3,1,0,0
+INT000480,SHOP017207,CUST00349,Kaylee Hays,frankperez@example.com,New Philipchester,2026-01-20 23:00:00,16,0,0,0
+INT000481,SHOP020164,CUST00470,Dawn Mullins,schaeferstephanie@example.org,Mooneyfurt,2026-01-21 00:00:00,7,0,0,0
+INT000482,SHOP017656,CUST00409,Howard Norman,katherinejones@example.com,Jonesport,2026-01-21 01:00:00,20,0,0,0
+INT000483,SHOP004774,CUST00397,Evelyn Martinez,dwatts@example.org,Heatherborough,2026-01-21 02:00:00,14,0,1,2
+INT000484,SHOP004805,CUST00210,Steve Paul,csullivan@example.net,Davismouth,2026-01-21 03:00:00,9,0,1,3
+INT000485,SHOP001844,CUST00161,Jasmine Beltran,zcortez@example.net,Port Sarahport,2026-01-21 04:00:00,15,0,1,2
+INT000486,SHOP007058,CUST00016,Jonathan Glass MD,meyershannon@example.org,Penashire,2026-01-21 05:00:00,3,0,0,0
+INT000487,SHOP011744,CUST00493,Monica Miller,aprilfoster@example.net,South Heather,2026-01-21 06:00:00,2,0,0,0
+INT000488,SHOP003141,CUST00426,Samantha Gardner,grantzachary@example.net,Phyllisborough,2026-01-21 07:00:00,2,0,0,0
+INT000489,SHOP019851,CUST00108,Bobby Guerrero,leescott@example.com,Port Kaitlin,2026-01-21 08:00:00,3,1,1,1
+INT000490,SHOP005345,CUST00382,Lance Simmons,steven64@example.net,West Jessicashire,2026-01-21 09:00:00,18,1,0,0
+INT000491,SHOP010219,CUST00450,Heather Williams,vaughnrebecca@example.com,Lake Kristenberg,2026-01-21 10:00:00,14,0,1,3
+INT000492,SHOP014253,CUST00311,Heather Bolton,gdavis@example.org,Clementschester,2026-01-21 11:00:00,20,0,1,3
+INT000493,SHOP002615,CUST00227,William Gould,kimberlypace@example.net,North Cody,2026-01-21 12:00:00,18,1,0,0
+INT000494,SHOP013285,CUST00170,Mark Cox,phillipmorris@example.org,Whiteton,2026-01-21 13:00:00,10,1,0,0
+INT000495,SHOP011845,CUST00034,Meghan Cisneros,shawnmosley@example.org,New Debrashire,2026-01-21 14:00:00,2,1,0,0
+INT000496,SHOP014098,CUST00414,Lawrence Harrington,udavis@example.net,Bookerfurt,2026-01-21 15:00:00,1,0,1,3
+INT000497,SHOP008488,CUST00251,Austin Osborne,jennifermartinez@example.org,North David,2026-01-21 16:00:00,4,0,0,0
+INT000498,SHOP013892,CUST00247,James Bradley,fwalters@example.net,Burnsburgh,2026-01-21 17:00:00,14,0,1,3
+INT000499,SHOP000429,CUST00269,Meghan Rush,gacosta@example.net,Parsonsland,2026-01-21 18:00:00,1,0,0,0
+INT000500,SHOP017450,CUST00141,Phillip Berry,nicholasjames@example.org,Hancockfurt,2026-01-21 19:00:00,14,1,0,0
+INT000501,SHOP000399,CUST00274,Jennifer Banks,ariana22@example.org,Cynthiamouth,2026-01-21 20:00:00,16,1,1,3
+INT000502,SHOP006887,CUST00416,Brian Fitzgerald,kaylawilliams@example.com,Alexanderville,2026-01-21 21:00:00,14,0,0,0
+INT000503,SHOP014213,CUST00096,Mr. Justin Green III,jessica74@example.net,North Tracyhaven,2026-01-21 22:00:00,20,1,0,0
+INT000504,SHOP013624,CUST00227,Zachary Mitchell,davidanderson@example.org,North Brenda,2026-01-21 23:00:00,3,0,0,0
+INT000505,SHOP016480,CUST00379,Katherine Martinez,deanjohnny@example.com,Hillville,2026-01-22 00:00:00,3,0,0,0
+INT000506,SHOP007101,CUST00039,Jodi Roach,ifoley@example.org,South Todd,2026-01-22 01:00:00,9,0,0,0
+INT000507,SHOP003872,CUST00302,Brandon Fleming,lyoung@example.net,Evansberg,2026-01-22 02:00:00,6,1,0,0
+INT000508,SHOP004061,CUST00500,Emma Reed,cchavez@example.org,West Bryanside,2026-01-22 03:00:00,13,0,1,1
+INT000509,SHOP002203,CUST00029,Joshua Vance,sanchezamy@example.net,South Lisa,2026-01-22 04:00:00,2,1,1,1
+INT000510,SHOP016802,CUST00446,Michelle Ho,brandonhernandez@example.net,South Angelaside,2026-01-22 05:00:00,8,1,0,0
+INT000511,SHOP018867,CUST00497,Rebecca Hicks,benjamin09@example.net,Brownshire,2026-01-22 06:00:00,2,0,0,0
+INT000512,SHOP005187,CUST00477,Curtis Taylor,mark10@example.org,Port Karenville,2026-01-22 07:00:00,4,0,0,0
+INT000513,SHOP008036,CUST00318,Allison Spencer,kchaney@example.net,Port Carol,2026-01-22 08:00:00,15,1,0,0
+INT000514,SHOP004192,CUST00245,Robert Arnold,cheryl99@example.net,North Angela,2026-01-22 09:00:00,4,0,1,2
+INT000515,SHOP010831,CUST00236,Angelica Parker,tammycurry@example.com,Davidberg,2026-01-22 10:00:00,13,1,0,0
+INT000516,SHOP007352,CUST00185,Dr. Kelly Hammond DVM,daviskevin@example.com,Lake Evan,2026-01-22 11:00:00,12,1,0,0
+INT000517,SHOP019721,CUST00272,William Day,wwilkins@example.com,Melissaton,2026-01-22 12:00:00,13,0,0,0
+INT000518,SHOP000868,CUST00440,Michael Cooper,carterdennis@example.net,North Williamstad,2026-01-22 13:00:00,14,0,0,0
+INT000519,SHOP000763,CUST00236,Penny Bowman,mark68@example.org,South Tiffany,2026-01-22 14:00:00,20,1,0,0
+INT000520,SHOP018241,CUST00239,Vincent Reynolds,cherylrodriguez@example.net,East Kevinhaven,2026-01-22 15:00:00,18,0,0,0
+INT000521,SHOP010875,CUST00377,Amy Martinez,webbhaley@example.net,Donnamouth,2026-01-22 16:00:00,6,0,0,0
+INT000522,SHOP004430,CUST00266,Christopher Morris,ronald54@example.net,New Tracy,2026-01-22 17:00:00,11,0,0,0
+INT000523,SHOP009049,CUST00414,Hannah Everett,sara99@example.com,Alexandrastad,2026-01-22 18:00:00,2,0,0,0
+INT000524,SHOP005035,CUST00409,Sarah King,lvasquez@example.net,Lake Corey,2026-01-22 19:00:00,19,1,0,0
+INT000525,SHOP008625,CUST00359,Krista Martinez,jeanettekrause@example.org,East Benjaminberg,2026-01-22 20:00:00,19,1,0,0
+INT000526,SHOP004031,CUST00340,Joseph Shaw,johnsoncolleen@example.org,Melissaborough,2026-01-22 21:00:00,5,0,0,0
+INT000527,SHOP006502,CUST00389,Todd Moore,laurenduarte@example.com,New Andrea,2026-01-22 22:00:00,19,0,0,0
+INT000528,SHOP004547,CUST00065,Michelle Jacobs,cookann@example.net,Joshuachester,2026-01-22 23:00:00,2,0,0,0
+INT000529,SHOP006432,CUST00478,Kristy Bryan,alexharris@example.com,New Jonathanfurt,2026-01-23 00:00:00,10,1,0,0
+INT000530,SHOP015069,CUST00177,Angel May,kristy44@example.net,South Stephen,2026-01-23 01:00:00,2,0,0,0
+INT000531,SHOP017038,CUST00003,Marilyn Wang,katie15@example.com,Ericaberg,2026-01-23 02:00:00,11,0,1,3
+INT000532,SHOP002240,CUST00429,Mark Jimenez,nramsey@example.org,North Crystal,2026-01-23 03:00:00,18,0,1,3
+INT000533,SHOP006757,CUST00142,Donna Frye,jamesbass@example.net,Wandaborough,2026-01-23 04:00:00,15,0,0,0
+INT000534,SHOP011217,CUST00376,Dr. Michael Evans,zhendricks@example.org,Annehaven,2026-01-23 05:00:00,9,1,1,1
+INT000535,SHOP011194,CUST00158,Anthony Gonzales,timothyburton@example.net,South Lorraine,2026-01-23 06:00:00,19,0,0,0
+INT000536,SHOP001243,CUST00498,Mr. Lawrence Edwards,steven60@example.net,Victoriachester,2026-01-23 07:00:00,9,0,0,0
+INT000537,SHOP013665,CUST00324,Morgan Valencia,annette58@example.net,Johnsonbury,2026-01-23 08:00:00,3,0,0,0
+INT000538,SHOP017276,CUST00146,Bianca Wood,clarkgina@example.com,West Davidville,2026-01-23 09:00:00,9,1,0,0
+INT000539,SHOP006014,CUST00446,Emma Owens,montesjuan@example.org,Jonesland,2026-01-23 10:00:00,14,0,0,0
+INT000540,SHOP018766,CUST00293,David Davis,tonya82@example.net,Reginaview,2026-01-23 11:00:00,19,0,0,0
+INT000541,SHOP017625,CUST00153,James Gilbert,hlopez@example.com,Port Lauren,2026-01-23 12:00:00,7,0,0,0
+INT000542,SHOP013508,CUST00432,Sean Moore,jennifer46@example.org,Alejandrofurt,2026-01-23 13:00:00,16,1,0,0
+INT000543,SHOP009281,CUST00193,Kenneth Edwards,xwiley@example.com,South Stephanie,2026-01-23 14:00:00,16,0,0,0
+INT000544,SHOP017450,CUST00437,Kathleen Robertson,javier42@example.org,East Alishaport,2026-01-23 15:00:00,1,0,1,2
+INT000545,SHOP008392,CUST00494,Mr. Alexander Landry MD,kristen31@example.com,Davisstad,2026-01-23 16:00:00,4,0,0,0
+INT000546,SHOP007195,CUST00463,Cindy Gomez,lloydrebecca@example.org,Andreaville,2026-01-23 17:00:00,4,1,0,0
+INT000547,SHOP004013,CUST00073,Johnny Khan,matthewwebb@example.net,East Louisfurt,2026-01-23 18:00:00,7,0,0,0
+INT000548,SHOP001025,CUST00399,Julie Herrera,kimberly21@example.net,West Linda,2026-01-23 19:00:00,8,1,0,0
+INT000549,SHOP002842,CUST00305,Jessica Khan,jamiejohnson@example.com,Woodsberg,2026-01-23 20:00:00,17,0,0,0
+INT000550,SHOP019571,CUST00377,Pamela Diaz,smithsarah@example.net,Alberthaven,2026-01-23 21:00:00,5,0,0,0
+INT000551,SHOP001511,CUST00344,Kelly Lee,cookpamela@example.org,Lake David,2026-01-23 22:00:00,7,0,0,0
+INT000552,SHOP006289,CUST00452,Angel Gordon,andrew43@example.com,Bradleyview,2026-01-23 23:00:00,20,1,0,0
+INT000553,SHOP019008,CUST00140,Diana Hays,jameshill@example.com,Lake Daniellestad,2026-01-24 00:00:00,20,0,0,0
+INT000554,SHOP005002,CUST00187,Barbara Hester,rlambert@example.org,Lake Charlotte,2026-01-24 01:00:00,4,1,0,0
+INT000555,SHOP020271,CUST00293,Robert Morgan,joshuasmith@example.net,Whitestad,2026-01-24 02:00:00,6,1,0,0
+INT000556,SHOP015186,CUST00061,Nicole Gonzalez,clarkmichael@example.com,Shawview,2026-01-24 03:00:00,7,0,0,0
+INT000557,SHOP011415,CUST00485,Kathryn Williams,donald49@example.org,Meyerbury,2026-01-24 04:00:00,18,1,0,0
+INT000558,SHOP004449,CUST00427,Gary Wells,charlesaustin@example.com,Cynthialand,2026-01-24 05:00:00,5,1,0,0
+INT000559,SHOP009136,CUST00380,Larry Robertson,bwilliams@example.com,Richardmouth,2026-01-24 06:00:00,20,0,1,1
+INT000560,SHOP003410,CUST00198,Louis Martin,rodriguezbrian@example.com,Lake Christopherbury,2026-01-24 07:00:00,3,0,1,3
+INT000561,SHOP012817,CUST00295,Nancy Evans MD,mwhite@example.net,East Barbaraland,2026-01-24 08:00:00,7,1,1,2
+INT000562,SHOP009277,CUST00440,Kim Erickson,tjensen@example.com,Angelafort,2026-01-24 09:00:00,14,0,0,0
+INT000563,SHOP009851,CUST00319,Robert Richardson,jenniferlambert@example.net,South Ericaberg,2026-01-24 10:00:00,7,1,0,0
+INT000564,SHOP019157,CUST00302,Veronica Silva,beltrankatelyn@example.com,Jimenezside,2026-01-24 11:00:00,5,1,0,0
+INT000565,SHOP006231,CUST00344,Molly Watts,christopherlang@example.net,South Alexanderborough,2026-01-24 12:00:00,5,0,0,0
+INT000566,SHOP009889,CUST00011,John Coffey,tdavis@example.net,Lake Ronaldside,2026-01-24 13:00:00,2,0,0,0
+INT000567,SHOP014384,CUST00062,Paula Lane,oruiz@example.org,Johnhaven,2026-01-24 14:00:00,6,0,0,0
+INT000568,SHOP000205,CUST00333,Lauren Jackson,roberta62@example.net,New Shaneburgh,2026-01-24 15:00:00,15,0,1,3
+INT000569,SHOP000915,CUST00226,Lisa Randall,kristina57@example.com,East Charles,2026-01-24 16:00:00,10,0,0,0
+INT000570,SHOP001232,CUST00153,Michael Johnson,jonesdaniel@example.com,New Michael,2026-01-24 17:00:00,7,0,1,1
+INT000571,SHOP000524,CUST00199,Ashley Smith,ssingleton@example.com,South Tylerburgh,2026-01-24 18:00:00,5,0,0,0
+INT000572,SHOP017013,CUST00052,Christian Vaughn,williamsullivan@example.net,Taramouth,2026-01-24 19:00:00,1,1,0,0
+INT000573,SHOP004730,CUST00260,Reginald Knapp,nguyendebra@example.com,Port Amber,2026-01-24 20:00:00,13,1,0,0
+INT000574,SHOP013129,CUST00059,Nancy Brown,amorales@example.org,West Kevinport,2026-01-24 21:00:00,18,0,0,0
+INT000575,SHOP016218,CUST00072,Daniel Nguyen,amydickson@example.com,Jasonshire,2026-01-24 22:00:00,13,0,0,0
+INT000576,SHOP001806,CUST00148,Kelly Edwards,petersonlisa@example.net,Robinsonport,2026-01-24 23:00:00,18,0,0,0
+INT000577,SHOP003328,CUST00349,Thomas Peterson,bmueller@example.net,South Patriciafort,2026-01-25 00:00:00,5,0,0,0
+INT000578,SHOP012673,CUST00063,Raymond Le,amy32@example.net,West Adammouth,2026-01-25 01:00:00,13,1,0,0
+INT000579,SHOP001553,CUST00310,Melissa Bishop,stevensonjennifer@example.com,Kennethville,2026-01-25 02:00:00,4,1,1,2
+INT000580,SHOP004611,CUST00373,David Grant,vargassteven@example.net,West Pamelaburgh,2026-01-25 03:00:00,17,1,1,3
+INT000581,SHOP020260,CUST00243,William Evans,shortgregory@example.com,Gomezville,2026-01-25 04:00:00,3,1,1,1
+INT000582,SHOP010704,CUST00493,Daniel Bush,georgegina@example.net,Vasquezland,2026-01-25 05:00:00,17,0,0,0
+INT000583,SHOP013544,CUST00366,Gregory Peck,pmurphy@example.net,South David,2026-01-25 06:00:00,11,1,0,0
+INT000584,SHOP011405,CUST00330,Denise Martinez,davislisa@example.net,Smithview,2026-01-25 07:00:00,20,0,0,0
+INT000585,SHOP015462,CUST00107,Jamie Baird,shermandonna@example.com,South Randall,2026-01-25 08:00:00,4,1,0,0
+INT000586,SHOP005891,CUST00226,Tina Ballard,peter97@example.org,Michaelburgh,2026-01-25 09:00:00,2,0,0,0
+INT000587,SHOP017341,CUST00313,Dwayne Klein,erinstewart@example.net,Danielmouth,2026-01-25 10:00:00,20,1,0,0
+INT000588,SHOP019461,CUST00218,Jeremy Scott,samantha65@example.org,Martinstad,2026-01-25 11:00:00,16,1,0,0
+INT000589,SHOP005346,CUST00425,Dale Ryan,carrwilliam@example.org,Smithborough,2026-01-25 12:00:00,18,0,0,0
+INT000590,SHOP019571,CUST00241,Melissa Taylor,bryan80@example.org,East Justinberg,2026-01-25 13:00:00,8,0,0,0
+INT000591,SHOP019669,CUST00259,Laurie Sanchez,daniel40@example.org,Fishermouth,2026-01-25 14:00:00,3,1,0,0
+INT000592,SHOP009289,CUST00376,Kiara Little,zpark@example.net,East Elizabethfort,2026-01-25 15:00:00,9,0,0,0
+INT000593,SHOP011530,CUST00262,Jason Love,jennifer66@example.com,Davidfort,2026-01-25 16:00:00,20,0,0,0
+INT000594,SHOP007754,CUST00005,Randy Smith,elainewells@example.org,Marshberg,2026-01-25 17:00:00,6,0,0,0
+INT000595,SHOP003031,CUST00261,Tanya Russell,xbridges@example.com,Karenfurt,2026-01-25 18:00:00,10,0,0,0
+INT000596,SHOP018788,CUST00054,Sherry Woods,keithsalas@example.org,Andersonville,2026-01-25 19:00:00,10,1,0,0
+INT000597,SHOP008363,CUST00047,Victor Morris,alexanderwong@example.org,East Erichaven,2026-01-25 20:00:00,13,0,0,0
+INT000598,SHOP006815,CUST00215,Susan Davis,ibarrett@example.org,Port Gabrielleton,2026-01-25 21:00:00,17,0,0,0
+INT000599,SHOP013024,CUST00177,Kimberly Sharp,dawnperry@example.com,Russelltown,2026-01-25 22:00:00,9,0,0,0
+INT000600,SHOP001054,CUST00009,Susan Thompson,dhanson@example.net,Castilloport,2026-01-25 23:00:00,17,0,0,0
+INT000601,SHOP010676,CUST00099,Casey Gillespie,carnold@example.com,Millerchester,2026-01-26 00:00:00,9,0,0,0
+INT000602,SHOP010724,CUST00020,Jennifer Simpson DVM,jeremiah69@example.org,New Elijah,2026-01-26 01:00:00,9,0,1,2
+INT000603,SHOP000368,CUST00378,Tammy Mcdowell,pbradford@example.net,East Juan,2026-01-26 02:00:00,1,0,0,0
+INT000604,SHOP009038,CUST00241,Keith Rodriguez,robert89@example.com,Port Josephbury,2026-01-26 03:00:00,2,0,0,0
+INT000605,SHOP013360,CUST00061,Mrs. Virginia Daniels,goodashley@example.net,Gonzalezville,2026-01-26 04:00:00,16,1,0,0
+INT000606,SHOP003420,CUST00379,Todd Rosales MD,daniel71@example.org,East Victoria,2026-01-26 05:00:00,1,0,0,0
+INT000607,SHOP018830,CUST00490,Brian Martin,steven18@example.net,East David,2026-01-26 06:00:00,10,0,0,0
+INT000608,SHOP007184,CUST00419,David Lopez,sanchezcrystal@example.net,Johnsonborough,2026-01-26 07:00:00,18,0,0,0
+INT000609,SHOP000240,CUST00178,Rachel Bradley,suttonamber@example.net,South Andres,2026-01-26 08:00:00,8,0,0,0
+INT000610,SHOP004665,CUST00338,Casey Chase,chloe58@example.org,North Michelle,2026-01-26 09:00:00,11,0,0,0
+INT000611,SHOP004536,CUST00062,Samantha Robertson,egibson@example.net,Russellport,2026-01-26 10:00:00,2,0,0,0
+INT000612,SHOP019860,CUST00145,Michael Lopez,robert44@example.org,East Matthew,2026-01-26 11:00:00,8,1,0,0
+INT000613,SHOP005743,CUST00216,Franklin Wright,nealcarla@example.com,Brownchester,2026-01-26 12:00:00,8,0,1,3
+INT000614,SHOP014538,CUST00003,David Molina,bryan79@example.org,West Danielstad,2026-01-26 13:00:00,17,0,0,0
+INT000615,SHOP007013,CUST00160,Elizabeth Sharp,douglaskelly@example.net,Sherrychester,2026-01-26 14:00:00,15,1,1,3
+INT000616,SHOP005021,CUST00227,Matthew Schwartz,mitchellchristopher@example.net,West Patty,2026-01-26 15:00:00,17,0,0,0
+INT000617,SHOP012917,CUST00486,Bryan Parker,yorkjoshua@example.org,North Aaron,2026-01-26 16:00:00,13,0,1,3
+INT000618,SHOP002480,CUST00269,Jonathan Jacobson,joshua40@example.net,Jasonfort,2026-01-26 17:00:00,19,0,1,2
+INT000619,SHOP017009,CUST00120,Emily Wilson,munozrenee@example.net,Rebekahville,2026-01-26 18:00:00,5,0,0,0
+INT000620,SHOP001282,CUST00381,Elizabeth Mendez,donnawood@example.org,Lopezfort,2026-01-26 19:00:00,12,1,0,0
+INT000621,SHOP019409,CUST00495,Casey Hernandez,kimberly37@example.org,Matthewville,2026-01-26 20:00:00,1,1,0,0
+INT000622,SHOP012378,CUST00089,Lisa Perry,cooperchristopher@example.org,Lake Alexanderside,2026-01-26 21:00:00,5,1,0,0
+INT000623,SHOP005414,CUST00329,Kaitlin Medina,marymullins@example.com,West Michael,2026-01-26 22:00:00,8,0,0,0
+INT000624,SHOP016340,CUST00068,Colleen Wright,cyoung@example.net,Juliashire,2026-01-26 23:00:00,13,0,0,0
+INT000625,SHOP004505,CUST00398,Shelley Miller,jasonnavarro@example.com,Johnview,2026-01-27 00:00:00,8,0,0,0
+INT000626,SHOP017923,CUST00357,Michael Miller,maykarla@example.org,New Patrick,2026-01-27 01:00:00,11,0,0,0
+INT000627,SHOP009837,CUST00098,Amy Kelley,jacksonraymond@example.com,East Crystalville,2026-01-27 02:00:00,1,0,1,1
+INT000628,BOOK000010,CUST00267,Laura Hernandez,wreese@example.net,New Tanyaborough,2026-01-27 03:00:00,13,1,0,0
+INT000629,SHOP018956,CUST00105,Joseph Wilson,noahthornton@example.com,Lake Sean,2026-01-27 04:00:00,19,0,0,0
+INT000630,SHOP004825,CUST00440,Kevin Davis,dustin60@example.com,North Shellymouth,2026-01-27 05:00:00,3,0,0,0
+INT000631,SHOP000716,CUST00323,Rhonda Chavez,ureyes@example.net,Jessicaborough,2026-01-27 06:00:00,17,0,1,1
+INT000632,SHOP001894,CUST00123,Joyce Brown,davisamanda@example.com,North David,2026-01-27 07:00:00,5,0,0,0
+INT000633,SHOP008116,CUST00476,Robert Cummings,pbishop@example.com,Pierceview,2026-01-27 08:00:00,20,0,0,0
+INT000634,SHOP013251,CUST00029,Robert Reese,joseph14@example.net,Patriciamouth,2026-01-27 09:00:00,8,1,0,0
+INT000635,SHOP014213,CUST00137,Amber Cooper,rmurray@example.net,South Carloschester,2026-01-27 10:00:00,14,0,0,0
+INT000636,SHOP003859,CUST00195,Zachary Michael,jessicachapman@example.org,East Carolberg,2026-01-27 11:00:00,4,1,0,0
+INT000637,SHOP020010,CUST00409,Timothy Johnson,erica25@example.net,Brandonshire,2026-01-27 12:00:00,11,0,1,1
+INT000638,SHOP006671,CUST00226,Randy Cannon,chambersmarie@example.org,Port Teresaborough,2026-01-27 13:00:00,20,1,0,0
+INT000639,SHOP006639,CUST00332,Maria Fisher,gdavis@example.net,Simpsonside,2026-01-27 14:00:00,15,1,0,0
+INT000640,SHOP013473,CUST00170,Janet Kane DVM,ubell@example.com,East Samuelhaven,2026-01-27 15:00:00,19,0,1,1
+INT000641,SHOP020085,CUST00009,Michael Stanley,james09@example.org,Hartfurt,2026-01-27 16:00:00,7,0,0,0
+INT000642,SHOP017718,CUST00463,Martha Bailey,maysdiane@example.org,Lawsonborough,2026-01-27 17:00:00,19,1,0,0
+INT000643,SHOP010045,CUST00040,Joshua Rice,ericksondavid@example.net,North Ernest,2026-01-27 18:00:00,19,0,1,3
+INT000644,SHOP006967,CUST00025,Courtney Smith,nicholasgallagher@example.net,New Heather,2026-01-27 19:00:00,11,1,0,0
+INT000645,SHOP008403,CUST00261,Edwin Nunez,pauladominguez@example.com,Gordonhaven,2026-01-27 20:00:00,5,0,0,0
+INT000646,SHOP000085,CUST00395,Kim Morrow,steven17@example.com,Kevinbury,2026-01-27 21:00:00,5,0,0,0
+INT000647,SHOP000105,CUST00443,Gregory Hill,qschwartz@example.com,Jeanetteside,2026-01-27 22:00:00,8,1,0,0
+INT000648,SHOP007876,CUST00226,Molly Rodriguez,fernando14@example.org,East Jeffreyside,2026-01-27 23:00:00,10,1,0,0
+INT000649,SHOP014859,CUST00472,Jennifer Miranda,dprice@example.com,West Benjamin,2026-01-28 00:00:00,6,0,0,0
+INT000650,SHOP012464,CUST00124,Alexis Harris,gregory17@example.org,West Sara,2026-01-28 01:00:00,15,1,0,0
+INT000651,SHOP018085,CUST00463,Andrew Harper,fwhite@example.org,Morganton,2026-01-28 02:00:00,16,0,1,1
+INT000652,SHOP009561,CUST00038,Amber Yang,amberreynolds@example.net,Port Jason,2026-01-28 03:00:00,17,0,0,0
+INT000653,SHOP005690,CUST00328,David Robinson,gainesjennifer@example.org,North Deborahstad,2026-01-28 04:00:00,8,0,1,1
+INT000654,SHOP014807,CUST00251,Amy Gordon,jonesashley@example.com,Christopherside,2026-01-28 05:00:00,8,0,1,2
+INT000655,SHOP017545,CUST00389,Robert Dennis,fsmith@example.org,Jenniferchester,2026-01-28 06:00:00,9,1,0,0
+INT000656,SHOP003337,CUST00176,Kyle Chambers,fitzpatrickelizabeth@example.com,Markton,2026-01-28 07:00:00,2,0,0,0
+INT000657,SHOP010617,CUST00090,Eric Thomas,isabelconway@example.net,Port Michaelview,2026-01-28 08:00:00,15,0,0,0
+INT000658,SHOP004510,CUST00402,Connie Turner,robertsonshelby@example.com,West Teresa,2026-01-28 09:00:00,18,0,0,0
+INT000659,SHOP020263,CUST00454,Travis Hobbs,ugraham@example.org,Lake Juliefurt,2026-01-28 10:00:00,3,0,1,3
+INT000660,SHOP013157,CUST00037,Lori Simmons,aaronfinley@example.com,Mollyside,2026-01-28 11:00:00,17,0,0,0
+INT000661,SHOP015145,CUST00316,William David DDS,bradleysavannah@example.com,Port Scott,2026-01-28 12:00:00,4,1,0,0
+INT000662,SHOP005698,CUST00176,Emma Butler,evelyn60@example.net,Josephshire,2026-01-28 13:00:00,4,0,0,0
+INT000663,SHOP001749,CUST00461,James Webster,diazmelissa@example.com,Moorebury,2026-01-28 14:00:00,14,1,0,0
+INT000664,SHOP012039,CUST00284,Samuel Turner,randallkathleen@example.com,Richardsonfort,2026-01-28 15:00:00,9,1,0,0
+INT000665,SHOP016801,CUST00453,Renee Melendez,gregorywilliams@example.com,South Hunterburgh,2026-01-28 16:00:00,9,0,0,0
+INT000666,SHOP004245,CUST00461,Tracy Grant,kentprice@example.org,East Ashley,2026-01-28 17:00:00,18,1,0,0
+INT000667,SHOP004677,CUST00081,David Harris,tom73@example.org,Lake Julian,2026-01-28 18:00:00,10,1,0,0
+INT000668,SHOP012476,CUST00114,Tammy Boone,leejennifer@example.net,Frankburgh,2026-01-28 19:00:00,4,0,0,0
+INT000669,SHOP009716,CUST00040,Nathaniel Lee,tracybrown@example.net,Mcdanielborough,2026-01-28 20:00:00,12,0,0,0
+INT000670,SHOP003120,CUST00301,Michael Morrison,victor70@example.org,East Charlesbury,2026-01-28 21:00:00,8,0,0,0
+INT000671,SHOP014131,CUST00224,Chelsea Gill,brian06@example.org,Stoutfurt,2026-01-28 22:00:00,2,0,1,1
+INT000672,SHOP006940,CUST00318,Kristin Mendoza,lindsaycontreras@example.com,Lake Alisontown,2026-01-28 23:00:00,13,1,0,0
+INT000673,SHOP014190,CUST00349,Felicia Krueger,joycehall@example.org,South Patrickville,2026-01-29 00:00:00,16,0,0,0
+INT000674,SHOP016334,CUST00115,Timothy Hayden,mosstracy@example.org,Port Mariaton,2026-01-29 01:00:00,2,1,0,0
+INT000675,SHOP010058,CUST00186,Zachary Mendoza,nmeadows@example.org,East Kayla,2026-01-29 02:00:00,11,0,0,0
+INT000676,SHOP016855,CUST00323,Larry Harris,jacquelineanderson@example.org,Douglastown,2026-01-29 03:00:00,10,0,1,3
+INT000677,SHOP004064,CUST00056,Kristen Rowe,conwaylori@example.org,Port Danielmouth,2026-01-29 04:00:00,15,1,0,0
+INT000678,SHOP009877,CUST00040,Joseph Howard,lcarr@example.org,East Donaldshire,2026-01-29 05:00:00,17,0,0,0
+INT000679,SHOP017162,CUST00354,Jose Crawford,wilsonbrooke@example.net,Ochoaport,2026-01-29 06:00:00,8,0,0,0
+INT000680,SHOP008128,CUST00040,William Harrison,bryanharris@example.com,Timothybury,2026-01-29 07:00:00,18,0,0,0
+INT000681,SHOP008281,CUST00347,Suzanne Wood,rnguyen@example.net,New Heatherside,2026-01-29 08:00:00,9,0,0,0
+INT000682,SHOP004559,CUST00461,Justin Walker,marcoconnell@example.org,North Malloryville,2026-01-29 09:00:00,8,0,0,0
+INT000683,SHOP009741,CUST00237,Dean Donovan,watkinsmatthew@example.org,Curtischester,2026-01-29 10:00:00,14,0,0,0
+INT000684,SHOP018899,CUST00289,Jennifer Hernandez,donald62@example.net,North Rhonda,2026-01-29 11:00:00,18,0,0,0
+INT000685,SHOP019459,CUST00262,James Whitaker,angela73@example.net,East Ronaldberg,2026-01-29 12:00:00,20,1,0,0
+INT000686,SHOP014955,CUST00216,Mr. Michael Scott PhD,andersonkylie@example.net,Dianabury,2026-01-29 13:00:00,20,0,1,1
+INT000687,SHOP011171,CUST00147,Maria Henry,bstrickland@example.com,Mcdanielville,2026-01-29 14:00:00,12,0,0,0
+INT000688,SHOP000953,CUST00336,Robert Jackson,smithharry@example.org,Jacksonville,2026-01-29 15:00:00,19,0,0,0
+INT000689,SHOP006697,CUST00168,Katherine Stark,robert72@example.org,North Stephanie,2026-01-29 16:00:00,14,1,0,0
+INT000690,SHOP011874,CUST00092,Maria Brown,daniellemills@example.com,Michaelmouth,2026-01-29 17:00:00,17,0,1,1
+INT000691,SHOP004374,CUST00353,Ryan Landry,sharonbishop@example.org,West Sandraland,2026-01-29 18:00:00,3,0,0,0
+INT000692,SHOP015482,CUST00059,Pamela Gutierrez,jennifersalazar@example.org,New Edwardchester,2026-01-29 19:00:00,7,0,1,1
+INT000693,SHOP012752,CUST00059,Crystal Mann,michael08@example.org,Carolchester,2026-01-29 20:00:00,17,0,0,0
+INT000694,SHOP006582,CUST00304,Jonathan Brooks,davidmoreno@example.org,Lake Gloria,2026-01-29 21:00:00,12,1,0,0
+INT000695,SHOP006650,CUST00169,Mary Jensen,michelle88@example.org,Michaelville,2026-01-29 22:00:00,9,1,0,0
+INT000696,SHOP009222,CUST00269,Mr. Aaron Arnold,qtownsend@example.org,Sabrinastad,2026-01-29 23:00:00,15,0,0,0
+INT000697,SHOP007718,CUST00363,Joseph Hill,brian12@example.net,Lisaland,2026-01-30 00:00:00,18,0,0,0
+INT000698,SHOP006642,CUST00045,Alicia Li,kjimenez@example.net,Port Sarahberg,2026-01-30 01:00:00,13,0,0,0
+INT000699,SHOP009910,CUST00345,Renee Browning,brownmichael@example.org,West Dylan,2026-01-30 02:00:00,8,1,0,0
+INT000700,SHOP017416,CUST00181,Brent Hernandez,nking@example.com,Griffithfort,2026-01-30 03:00:00,14,1,0,0
+INT000701,SHOP009251,CUST00170,Joseph Ochoa,garciabrian@example.net,North Beckyview,2026-01-30 04:00:00,8,0,0,0
+INT000702,SHOP004338,CUST00356,James Watson,ericjohnson@example.net,North Marcus,2026-01-30 05:00:00,14,1,0,0
+INT000703,SHOP004555,CUST00191,Karl Branch,jonesjoe@example.com,East Katrina,2026-01-30 06:00:00,7,1,0,0
+INT000704,SHOP019262,CUST00155,Michael Abbott,robert53@example.org,Luischester,2026-01-30 07:00:00,12,0,0,0
+INT000705,SHOP010021,CUST00422,Shannon Malone,jeremy36@example.org,Steelechester,2026-01-30 08:00:00,11,0,0,0
+INT000706,SHOP018265,CUST00188,James Tran,evance@example.com,Devonbury,2026-01-30 09:00:00,11,0,0,0
+INT000707,SHOP004593,CUST00007,Adam Jackson,bbrown@example.org,Barnesfort,2026-01-30 10:00:00,13,1,1,2
+INT000708,SHOP006744,CUST00133,Mr. Richard Knight PhD,sarahgibson@example.com,Patelbury,2026-01-30 11:00:00,18,1,0,0
+INT000709,SHOP016222,CUST00235,Joseph Williams,derek35@example.com,Millerchester,2026-01-30 12:00:00,2,1,0,0
+INT000710,SHOP019557,CUST00045,Sean Clay,matthewjohnson@example.net,Lake Christopher,2026-01-30 13:00:00,15,1,0,0
+INT000711,SHOP018917,CUST00314,Anthony Jones,ramirezdaniel@example.com,Aarontown,2026-01-30 14:00:00,20,0,1,2
+INT000712,SHOP019664,CUST00249,Stephanie Elliott,wbarnes@example.com,Angelaberg,2026-01-30 15:00:00,18,1,0,0
+INT000713,SHOP003865,CUST00499,Timothy Edwards,oliviamunoz@example.net,North Rhondastad,2026-01-30 16:00:00,15,1,0,0
+INT000714,SHOP007642,CUST00031,Laurie Goodwin,belindatran@example.org,West Steven,2026-01-30 17:00:00,19,0,1,3
+INT000715,SHOP014089,CUST00023,Jennifer Jones,jenkinsaimee@example.org,Sanchezbury,2026-01-30 18:00:00,12,0,0,0
+INT000716,SHOP005270,CUST00426,David Davenport,rhood@example.org,Lake Devinberg,2026-01-30 19:00:00,13,1,0,0
+INT000717,SHOP004001,CUST00394,Steven Rivera,pfitzgerald@example.org,Quinnchester,2026-01-30 20:00:00,11,0,0,0
+INT000718,SHOP005970,CUST00160,Brenda Hinton,ryan39@example.org,Brianville,2026-01-30 21:00:00,5,1,0,0
+INT000719,SHOP003519,CUST00363,Kathryn Mccann,butlerbradley@example.com,South Maryburgh,2026-01-30 22:00:00,1,0,0,0
+INT000720,SHOP011716,CUST00437,Jeffrey Roberson,simmonsphillip@example.net,East Michaelland,2026-01-30 23:00:00,3,0,1,3
+INT000721,SHOP011935,CUST00158,Randy Friedman,chavezjohn@example.net,North Alexander,2026-01-31 00:00:00,19,1,0,0
+INT000722,SHOP017991,CUST00039,Raymond Johnson,steelerichard@example.org,Hernandezburgh,2026-01-31 01:00:00,7,0,1,3
+INT000723,SHOP005955,CUST00415,Willie Henry,michaelallen@example.org,Manninghaven,2026-01-31 02:00:00,12,0,0,0
+INT000724,SHOP016845,CUST00082,Todd Reynolds,castillokevin@example.net,Theodoremouth,2026-01-31 03:00:00,15,0,0,0
+INT000725,SHOP007051,CUST00356,Mary Miller,vhodge@example.net,Harringtontown,2026-01-31 04:00:00,5,1,0,0
+INT000726,SHOP014884,CUST00258,Rebecca Marquez,braysteven@example.org,Danielton,2026-01-31 05:00:00,15,0,0,0
+INT000727,SHOP005939,CUST00206,Christian Dawson,xlopez@example.net,New Karenhaven,2026-01-31 06:00:00,8,1,0,0
+INT000728,SHOP005791,CUST00077,Nancy Stewart,apadilla@example.net,North Randy,2026-01-31 07:00:00,10,0,0,0
+INT000729,SHOP011338,CUST00477,Aaron Parker,cruzhannah@example.net,Fraziermouth,2026-01-31 08:00:00,16,1,0,0
+INT000730,SHOP012348,CUST00012,Derrick Anderson,phillipskaren@example.net,Samanthahaven,2026-01-31 09:00:00,8,1,0,0
+INT000731,SHOP009612,CUST00295,Jerry Peters,kristinmiller@example.com,Jennachester,2026-01-31 10:00:00,1,0,0,0
+INT000732,SHOP008173,CUST00450,Alexander Gomez,robertsonrenee@example.com,West Teresa,2026-01-31 11:00:00,12,0,0,0
+INT000733,SHOP017972,CUST00224,Kyle Nguyen,rodriguezmichael@example.net,Spenceberg,2026-01-31 12:00:00,5,0,0,0
+INT000734,SHOP002967,CUST00013,Edgar Hughes,diazgregory@example.net,South Christine,2026-01-31 13:00:00,3,0,0,0
+INT000735,SHOP000367,CUST00046,Steven Stein,castrokim@example.org,South Isaiah,2026-01-31 14:00:00,1,0,0,0
+INT000736,SHOP003889,CUST00155,Laura Jackson,john17@example.net,Port Heatherfort,2026-01-31 15:00:00,4,0,1,3
+INT000737,SHOP016756,CUST00113,Charles Turner,karenhodges@example.com,Denisefurt,2026-01-31 16:00:00,8,0,0,0
+INT000738,SHOP009862,CUST00233,Arthur Hamilton MD,rachael86@example.com,Martinstad,2026-01-31 17:00:00,3,0,0,0
+INT000739,SHOP011015,CUST00017,Mr. David Wright,brownmichael@example.com,Leeville,2026-01-31 18:00:00,10,0,0,0
+INT000740,SHOP012592,CUST00360,Linda Gonzalez,harrisonamanda@example.net,North Michaelmouth,2026-01-31 19:00:00,2,0,0,0
+INT000741,SHOP004478,CUST00223,Eric Rush,shannon51@example.org,East Julianside,2026-01-31 20:00:00,11,1,0,0
+INT000742,SHOP003601,CUST00354,Manuel Brock,zmiller@example.org,North Jasontown,2026-01-31 21:00:00,10,0,1,3
+INT000743,SHOP013417,CUST00188,George Ochoa,susan11@example.org,Jacobborough,2026-01-31 22:00:00,14,0,1,2
+INT000744,SHOP006682,CUST00448,Valerie Taylor,daniel27@example.org,East Josephshire,2026-01-31 23:00:00,7,0,0,0
+INT000745,SHOP006077,CUST00344,Travis Harris,abigailburton@example.com,New Valeriefort,2026-02-01 00:00:00,2,1,0,0
+INT000746,SHOP016608,CUST00365,Vincent Novak,imontes@example.org,North Leonardport,2026-02-01 01:00:00,9,1,0,0
+INT000747,SHOP018478,CUST00163,Michael Henry,creed@example.net,West Karenfurt,2026-02-01 02:00:00,16,1,0,0
+INT000748,SHOP018678,CUST00496,Dana Bennett,carterbryan@example.org,West Karen,2026-02-01 03:00:00,13,1,0,0
+INT000749,SHOP009861,CUST00326,Jenna Wilson,robert55@example.com,Terriville,2026-02-01 04:00:00,9,0,0,0
+INT000750,SHOP013825,CUST00467,Leslie Gardner,kellis@example.org,Richardhaven,2026-02-01 05:00:00,20,1,0,0
+INT000751,SHOP015983,CUST00414,Krista Benton,george43@example.com,New Lindseyberg,2026-02-01 06:00:00,4,1,0,0
+INT000752,SHOP010189,CUST00455,Michael Gonzales,tara02@example.com,New Laurafort,2026-02-01 07:00:00,10,0,0,0
+INT000753,SHOP004941,CUST00074,Michael Fuentes,stephen29@example.org,West Evanmouth,2026-02-01 08:00:00,12,1,1,3
+INT000754,SHOP010154,CUST00233,Jennifer Porter,ian22@example.org,Lake Christopherbury,2026-02-01 09:00:00,17,0,0,0
+INT000755,SHOP010179,CUST00224,Dana Hopkins,darylchaney@example.net,Port Erin,2026-02-01 10:00:00,14,0,0,0
+INT000756,SHOP012095,CUST00482,Rachel Jones,scottwood@example.org,Port Jennifer,2026-02-01 11:00:00,14,0,0,0
+INT000757,SHOP018963,CUST00319,Karen Morales DDS,wadetiffany@example.org,Sethberg,2026-02-01 12:00:00,2,0,1,3
+INT000758,SHOP020228,CUST00412,Melissa Stephens,shane28@example.com,Kellychester,2026-02-01 13:00:00,20,1,1,2
+INT000759,SHOP019729,CUST00060,Heather Woodard,knapprichard@example.com,Lake Kimfurt,2026-02-01 14:00:00,11,0,0,0
+INT000760,SHOP004133,CUST00335,Margaret Miller,staciereilly@example.org,East Wendy,2026-02-01 15:00:00,16,0,0,0
+INT000761,SHOP013269,CUST00222,Mary Kelly,cordovaamy@example.net,East Ashleyfort,2026-02-01 16:00:00,19,0,0,0
+INT000762,SHOP013879,CUST00037,Amanda Terrell,deborah47@example.com,Port Alexisport,2026-02-01 17:00:00,6,1,0,0
+INT000763,SHOP017361,CUST00477,Jennifer Goodwin,laurenchandler@example.com,South Clintonmouth,2026-02-01 18:00:00,19,0,0,0
+INT000764,SHOP000003,CUST00278,Jessica Smith,hannah70@example.org,West Evan,2026-02-01 19:00:00,5,0,0,0
+INT000765,SHOP016723,CUST00196,Jorge Stone,parkerrichard@example.org,Barbarastad,2026-02-01 20:00:00,4,1,0,0
+INT000766,BOOK000056,CUST00404,Laura Griffin,uhoward@example.org,North Haroldmouth,2026-02-01 21:00:00,15,1,0,0
+INT000767,SHOP012714,CUST00352,Raymond Chapman,brandywalker@example.com,Valerieview,2026-02-01 22:00:00,4,0,0,0
+INT000768,SHOP008418,CUST00484,Haley Johnson,andrewryan@example.com,Santosberg,2026-02-01 23:00:00,20,1,1,2
+INT000769,SHOP007851,CUST00242,Jason Nixon,daughertypreston@example.com,New Tracystad,2026-02-02 00:00:00,10,1,0,0
+INT000770,SHOP001826,CUST00324,Todd Thomas,carrie80@example.net,Richardberg,2026-02-02 01:00:00,3,1,0,0
+INT000771,SHOP011180,CUST00219,Jesse Clark,raymond65@example.com,Richardsonmouth,2026-02-02 02:00:00,5,0,0,0
+INT000772,SHOP015446,CUST00192,Mr. Jeffrey Horton,alexander55@example.com,Christopherchester,2026-02-02 03:00:00,6,0,0,0
+INT000773,SHOP016449,CUST00017,Eric Patrick,fsawyer@example.org,Bakerton,2026-02-02 04:00:00,8,0,0,0
+INT000774,SHOP006510,CUST00012,Samuel Wong,afigueroa@example.com,Lake Krystalside,2026-02-02 05:00:00,7,0,0,0
+INT000775,SHOP004322,CUST00406,Carly Riggs,frank66@example.org,East Melissaport,2026-02-02 06:00:00,10,0,1,1
+INT000776,SHOP014735,CUST00401,Christopher Moore,thomaskevin@example.net,Moorefurt,2026-02-02 07:00:00,6,0,0,0
+INT000777,SHOP013324,CUST00394,Tina Hall,carl96@example.org,East Paulmouth,2026-02-02 08:00:00,14,0,0,0
+INT000778,SHOP004827,CUST00374,Cody Davidson,ortizrobin@example.com,West Stevenside,2026-02-02 09:00:00,4,0,1,3
+INT000779,SHOP004823,CUST00193,Allen Mendez,angelapage@example.org,Rodriguezburgh,2026-02-02 10:00:00,13,0,0,0
+INT000780,SHOP017731,CUST00022,Kevin Price,jacobjames@example.net,South Kaylaborough,2026-02-02 11:00:00,20,1,0,0
+INT000781,SHOP017003,CUST00474,Christine Goodwin,twilliams@example.net,Murphymouth,2026-02-02 12:00:00,17,0,0,0
+INT000782,SHOP018882,CUST00120,Amy Garcia,troy73@example.org,Wendyfort,2026-02-02 13:00:00,7,0,0,0
+INT000783,SHOP005571,CUST00210,Chelsea Nguyen,moorekevin@example.net,Lake Judith,2026-02-02 14:00:00,4,1,0,0
+INT000784,SHOP001232,CUST00306,Dennis Huffman,qmartinez@example.com,West Shawnside,2026-02-02 15:00:00,14,0,0,0
+INT000785,SHOP007873,CUST00270,Margaret Harper,swhite@example.net,South Dustin,2026-02-02 16:00:00,3,1,0,0
+INT000786,SHOP019430,CUST00192,Laurie Bailey,anthonyhubbard@example.com,West Ashley,2026-02-02 17:00:00,5,1,0,0
+INT000787,SHOP007374,CUST00175,Lisa Cervantes,georgemichael@example.com,Brownstad,2026-02-02 18:00:00,16,0,0,0
+INT000788,SHOP006583,CUST00285,Elizabeth Mendez,ooneill@example.net,Irwinborough,2026-02-02 19:00:00,20,1,0,0
+INT000789,SHOP001607,CUST00204,Cesar Wilson,hmccann@example.com,East Mirandachester,2026-02-02 20:00:00,4,0,0,0
+INT000790,SHOP002787,CUST00164,Clayton Steele,brucefrancisco@example.org,Johnnyburgh,2026-02-02 21:00:00,2,0,1,1
+INT000791,SHOP013204,CUST00251,Jennifer Taylor,luisjohns@example.org,East Chadfurt,2026-02-02 22:00:00,18,0,0,0
+INT000792,SHOP007853,CUST00227,Cody Reid,frank45@example.com,West Morganmouth,2026-02-02 23:00:00,19,0,0,0
+INT000793,SHOP005451,CUST00436,Maria Cooke,brandon48@example.net,Warrenview,2026-02-03 00:00:00,19,1,1,2
+INT000794,SHOP012473,CUST00381,Katherine Taylor,palmerkatie@example.org,Port Brian,2026-02-03 01:00:00,17,0,0,0
+INT000795,SHOP009968,CUST00460,Jerry Brown,georgegary@example.com,Petersonport,2026-02-03 02:00:00,14,0,0,0
+INT000796,SHOP000763,CUST00007,Adam Taylor,margaret44@example.net,East Michael,2026-02-03 03:00:00,19,0,0,0
+INT000797,SHOP018061,CUST00029,Tracey Wagner,cody95@example.org,Olsonside,2026-02-03 04:00:00,13,0,0,0
+INT000798,SHOP017381,CUST00395,Michael Perry PhD,taylorjuan@example.com,Lake Samuel,2026-02-03 05:00:00,12,0,0,0
+INT000799,SHOP005930,CUST00033,Bradley Johnson DDS,kpeterson@example.org,Morrowside,2026-02-03 06:00:00,6,0,0,0
+INT000800,SHOP016210,CUST00134,Donald Medina,ericwalker@example.org,North Jennifer,2026-02-03 07:00:00,4,1,0,0
+INT000801,SHOP014848,CUST00367,Jim Newton,butlersabrina@example.org,West Elizabeth,2026-02-03 08:00:00,19,0,0,0
+INT000802,SHOP004333,CUST00079,Krista Wilson,sandramendoza@example.com,Alexismouth,2026-02-03 09:00:00,16,0,1,2
+INT000803,SHOP005989,CUST00416,Reginald Morrow,don79@example.net,South Michelle,2026-02-03 10:00:00,13,0,0,0
+INT000804,SHOP003297,CUST00435,Rodney Williams,gerald40@example.net,Port Tarachester,2026-02-03 11:00:00,4,0,1,2
+INT000805,SHOP011176,CUST00459,Kimberly Fritz,walkermelissa@example.org,Abigailtown,2026-02-03 12:00:00,17,1,0,0
+INT000806,SHOP005869,CUST00058,Ronald Potter,kyleclark@example.org,Hardingberg,2026-02-03 13:00:00,1,0,1,2
+INT000807,SHOP009496,CUST00471,Zachary Cole,yvazquez@example.org,Fowlershire,2026-02-03 14:00:00,18,0,0,0
+INT000808,SHOP007262,CUST00026,Robert Gonzales,smithtodd@example.com,North Jefferyborough,2026-02-03 15:00:00,20,0,0,0
+INT000809,SHOP007959,CUST00482,Patricia Young PhD,gonzalezantonio@example.net,Hortonburgh,2026-02-03 16:00:00,17,1,0,0
+INT000810,SHOP016317,CUST00430,Heather Page,harrisonrebekah@example.org,Robinsonborough,2026-02-03 17:00:00,15,0,0,0
+INT000811,SHOP006072,CUST00226,Carol Taylor,turneralex@example.org,Lake Barbara,2026-02-03 18:00:00,11,0,0,0
+INT000812,SHOP020291,CUST00285,Daniel Brown,morajamie@example.org,West Lisatown,2026-02-03 19:00:00,13,1,1,3
+INT000813,SHOP014070,CUST00004,Douglas Ryan,ellenjohnson@example.org,Peggyhaven,2026-02-03 20:00:00,1,0,1,3
+INT000814,SHOP012611,CUST00465,Michael Roberts,stacy55@example.org,Lake Victormouth,2026-02-03 21:00:00,17,1,0,0
+INT000815,SHOP007644,CUST00099,Scott Duke,williamjones@example.net,Jenkinsstad,2026-02-03 22:00:00,6,1,0,0
+INT000816,SHOP011900,CUST00397,Anna Estes,ricejennifer@example.com,Millsmouth,2026-02-03 23:00:00,4,0,0,0
+INT000817,SHOP015429,CUST00489,Tamara Riddle,rachelmedina@example.net,East Stephenstad,2026-02-04 00:00:00,20,0,0,0
+INT000818,SHOP006439,CUST00039,Beth Cline,glasssamantha@example.net,New Brooke,2026-02-04 01:00:00,16,0,0,0
+INT000819,SHOP015614,CUST00271,Michael Poole,lrichardson@example.org,Jameschester,2026-02-04 02:00:00,15,0,0,0
+INT000820,SHOP002173,CUST00375,Megan Burns,gnunez@example.org,Jacquelineville,2026-02-04 03:00:00,15,1,1,3
+INT000821,SHOP018824,CUST00285,Debra Perry,tina63@example.net,Port Maryland,2026-02-04 04:00:00,6,0,0,0
+INT000822,SHOP015380,CUST00157,Mark Beard,rickjuarez@example.com,New Sarahville,2026-02-04 05:00:00,15,0,0,0
+INT000823,SHOP001462,CUST00075,Jose Ramirez,owensapril@example.com,Bradyside,2026-02-04 06:00:00,14,1,0,0
+INT000824,SHOP009868,CUST00372,Jackie Clements,janet80@example.org,Lake Seanshire,2026-02-04 07:00:00,11,0,0,0
+INT000825,SHOP010255,CUST00288,Aaron Schroeder,tristan64@example.com,Lake Kellychester,2026-02-04 08:00:00,7,0,0,0
+INT000826,SHOP016961,CUST00130,Monica Ellis,gloria73@example.net,East Kimberly,2026-02-04 09:00:00,9,0,0,0
+INT000827,SHOP013978,CUST00175,Heather Brown,broberts@example.org,Wilsonfort,2026-02-04 10:00:00,16,0,1,1
+INT000828,SHOP003513,CUST00462,Claudia Jordan,jacobsonleah@example.net,West Tammymouth,2026-02-04 11:00:00,5,1,0,0
+INT000829,SHOP017545,CUST00084,Derrick Clayton,harry71@example.com,Odonnellfurt,2026-02-04 12:00:00,20,0,0,0
+INT000830,SHOP017818,CUST00022,Kenneth Knight,rmills@example.org,West Kimberlyhaven,2026-02-04 13:00:00,10,0,1,3
+INT000831,SHOP001306,CUST00459,Mr. Michael Williams,thomasrichard@example.net,Josephview,2026-02-04 14:00:00,18,0,0,0
+INT000832,SHOP005323,CUST00027,Richard Stevens,figueroapatricia@example.org,Marychester,2026-02-04 15:00:00,3,0,0,0
+INT000833,SHOP006468,CUST00195,Scott Alexander,coxjames@example.org,North Rachel,2026-02-04 16:00:00,13,0,0,0
+INT000834,SHOP011314,CUST00337,Tyler Harris,bmartinez@example.net,Johnsontown,2026-02-04 17:00:00,11,0,0,0
+INT000835,SHOP019602,CUST00382,Bonnie Santos,tramirez@example.net,Port Nicholas,2026-02-04 18:00:00,17,0,0,0
+INT000836,SHOP010290,CUST00236,Timothy Hill,katelyn65@example.com,Matthewshire,2026-02-04 19:00:00,13,1,0,0
+INT000837,SHOP013619,CUST00440,Danielle Watson,garcher@example.com,Allenfurt,2026-02-04 20:00:00,6,0,0,0
+INT000838,SHOP019820,CUST00092,Carol Sanders,katrinarodriguez@example.com,New Deanna,2026-02-04 21:00:00,17,0,0,0
+INT000839,SHOP012747,CUST00477,Michael Young,ocrawford@example.org,Port Sarahchester,2026-02-04 22:00:00,13,0,1,3
+INT000840,SHOP002291,CUST00021,Michele Smith,garciabrian@example.org,Lake Peter,2026-02-04 23:00:00,19,1,0,0
+INT000841,SHOP017148,CUST00303,Casey Perez,lgregory@example.com,South Rebecca,2026-02-05 00:00:00,19,1,0,0
+INT000842,SHOP004025,CUST00464,Alexandra Dominguez,eric99@example.org,South Jerry,2026-02-05 01:00:00,10,0,0,0
+INT000843,SHOP010488,CUST00357,Virginia Henderson,guerreroapril@example.com,New David,2026-02-05 02:00:00,3,1,0,0
+INT000844,SHOP008812,CUST00443,Benjamin Reyes,qharris@example.com,Cameronview,2026-02-05 03:00:00,14,0,0,0
+INT000845,SHOP005043,CUST00084,Ashley Edwards,iwagner@example.com,West James,2026-02-05 04:00:00,19,0,1,3
+INT000846,SHOP016090,CUST00262,Breanna Ayala,cisnerosanthony@example.com,North Samuelshire,2026-02-05 05:00:00,5,0,1,1
+INT000847,SHOP008360,CUST00147,Brandi Haney,reyesleonard@example.com,North Christine,2026-02-05 06:00:00,5,0,0,0
+INT000848,SHOP013744,CUST00441,Joseph Smith,cstevens@example.org,New Patrickberg,2026-02-05 07:00:00,20,1,0,0
+INT000849,SHOP008538,CUST00453,Jessica Bowen,nicole27@example.com,Waltersstad,2026-02-05 08:00:00,17,0,0,0
+INT000850,BOOK000118,CUST00387,Brittany Jenkins,larryprice@example.org,East Denise,2026-02-05 09:00:00,10,0,0,0
+INT000851,SHOP013618,CUST00257,Shannon Miller,rkeller@example.net,West James,2026-02-05 10:00:00,5,1,0,0
+INT000852,SHOP018636,CUST00058,Paul Lawrence,kalvarez@example.net,Lake Kimberly,2026-02-05 11:00:00,4,0,1,3
+INT000853,SHOP014010,CUST00380,Victor Edwards,myerstroy@example.com,Townsendton,2026-02-05 12:00:00,6,0,0,0
+INT000854,SHOP012935,CUST00422,Donald Miller,katie45@example.org,Christopherberg,2026-02-05 13:00:00,4,0,0,0
+INT000855,SHOP005261,CUST00015,Lindsay Lawson,garzadavid@example.com,Lake Traciville,2026-02-05 14:00:00,7,0,0,0
+INT000856,SHOP000547,CUST00162,Melissa Abbott,lisa90@example.net,South Saraville,2026-02-05 15:00:00,7,0,1,3
+INT000857,SHOP010655,CUST00445,Elizabeth Holmes,oscar65@example.com,East Justinburgh,2026-02-05 16:00:00,18,0,0,0
+INT000858,SHOP013404,CUST00163,Nicole Phillips,qbell@example.org,North Troystad,2026-02-05 17:00:00,3,0,1,3
+INT000859,SHOP015086,CUST00320,Steven Blevins,jimmycollins@example.org,South Craig,2026-02-05 18:00:00,1,0,0,0
+INT000860,SHOP013447,CUST00497,Brian Porter MD,meltondanny@example.org,South Charlesland,2026-02-05 19:00:00,4,1,0,0
+INT000861,SHOP006170,CUST00281,Vanessa Hatfield,ryanbenjamin@example.net,Lake Robert,2026-02-05 20:00:00,6,0,0,0
+INT000862,SHOP009034,CUST00280,Bonnie Valencia,abradley@example.com,Cynthiamouth,2026-02-05 21:00:00,9,0,0,0
+INT000863,SHOP016309,CUST00012,Holly Vega,dominguezbrianna@example.com,East Kent,2026-02-05 22:00:00,14,0,0,0
+INT000864,SHOP012520,CUST00274,Tiffany Townsend,uhudson@example.net,Lake Ashley,2026-02-05 23:00:00,12,0,0,0
+INT000865,SHOP003909,CUST00271,Austin Baker,stokescraig@example.net,North Theresastad,2026-02-06 00:00:00,20,0,0,0
+INT000866,SHOP005984,CUST00492,Antonio Mccormick,matthewshaw@example.net,Cooleyside,2026-02-06 01:00:00,4,0,0,0
+INT000867,SHOP001749,CUST00208,Lori Mason,garrett45@example.com,East Aimeeview,2026-02-06 02:00:00,12,0,0,0
+INT000868,SHOP005934,CUST00027,Michael Miller,tylerboone@example.org,East Catherineside,2026-02-06 03:00:00,10,1,0,0
+INT000869,SHOP012642,CUST00072,Lisa Ramirez,karlwilliams@example.net,New Williamberg,2026-02-06 04:00:00,7,0,0,0
+INT000870,SHOP012308,CUST00060,Jorge Harris,nballard@example.net,Port Michael,2026-02-06 05:00:00,3,1,0,0
+INT000871,SHOP009466,CUST00430,Kimberly Myers,robbinsbelinda@example.net,North Mark,2026-02-06 06:00:00,14,0,0,0
+INT000872,SHOP001529,CUST00473,Sandra Becker,joshua98@example.com,North Jessica,2026-02-06 07:00:00,10,1,0,0
+INT000873,SHOP001618,CUST00145,Michael Blair,yclark@example.org,West Joshua,2026-02-06 08:00:00,16,0,0,0
+INT000874,SHOP006689,CUST00093,Amy Miller,william46@example.net,North Michael,2026-02-06 09:00:00,16,1,0,0
+INT000875,SHOP018111,CUST00309,Jesse Lynch,james64@example.net,Stuartfort,2026-02-06 10:00:00,10,0,0,0
+INT000876,SHOP014295,CUST00008,Patrick Yang,jpowers@example.org,Huntfurt,2026-02-06 11:00:00,13,0,0,0
+INT000877,SHOP019829,CUST00079,Michael Miles,burtonzachary@example.org,West Gerald,2026-02-06 12:00:00,6,0,0,0
+INT000878,SHOP012678,CUST00027,Troy Mills,vlewis@example.com,Suzanneville,2026-02-06 13:00:00,12,1,0,0
+INT000879,BOOK000010,CUST00174,Michelle Jackson,sharon89@example.com,Gabrielborough,2026-02-06 14:00:00,9,0,0,0
+INT000880,SHOP016345,CUST00050,Richard Adams,boydmichael@example.org,Hamiltonmouth,2026-02-06 15:00:00,13,0,0,0
+INT000881,SHOP009566,CUST00500,Patricia Johnson,edwardjennings@example.com,Carlsonview,2026-02-06 16:00:00,4,0,0,0
+INT000882,SHOP001920,CUST00199,Denise Brown,ejenkins@example.net,Cindyfurt,2026-02-06 17:00:00,11,0,0,0
+INT000883,SHOP006742,CUST00387,Laura Jones,meghanadams@example.com,Gonzalezstad,2026-02-06 18:00:00,20,0,0,0
+INT000884,SHOP018145,CUST00349,Ian Porter,jonathanburke@example.com,Rachaelland,2026-02-06 19:00:00,18,0,0,0
+INT000885,SHOP004988,CUST00448,Holly Scott,daniellee@example.org,Jacksonton,2026-02-06 20:00:00,11,1,0,0
+INT000886,SHOP001320,CUST00428,Kenneth Sharp,steven86@example.com,Brendaport,2026-02-06 21:00:00,4,1,0,0
+INT000887,SHOP008213,CUST00181,Jordan Williams,harrisjoseph@example.org,Raymondville,2026-02-06 22:00:00,18,1,0,0
+INT000888,SHOP001043,CUST00024,Dana Ruiz,kristine48@example.org,Port Marcus,2026-02-06 23:00:00,1,0,1,1
+INT000889,SHOP010269,CUST00316,Chris Velazquez,stuarttodd@example.org,West John,2026-02-07 00:00:00,7,1,0,0
+INT000890,SHOP018917,CUST00378,Kristen Sloan,heathchristopher@example.net,Lake Nathan,2026-02-07 01:00:00,6,1,0,0
+INT000891,SHOP018909,CUST00387,Jennifer Morris,michelle65@example.net,Port Leonard,2026-02-07 02:00:00,15,0,0,0
+INT000892,SHOP018079,CUST00404,Nathan Nelson,sandersmary@example.org,West Haleymouth,2026-02-07 03:00:00,18,0,0,0
+INT000893,SHOP013932,CUST00046,Jake Shaw,danielnavarro@example.org,South Ashley,2026-02-07 04:00:00,11,0,0,0
+INT000894,SHOP003191,CUST00015,Cassie Brock,tyler13@example.net,Rachelside,2026-02-07 05:00:00,20,1,0,0
+INT000895,SHOP009011,CUST00153,Dr. Andrea Marshall,mejialawrence@example.net,South Justinborough,2026-02-07 06:00:00,15,0,0,0
+INT000896,SHOP007685,CUST00222,Ryan Murphy,vshaffer@example.org,North Ann,2026-02-07 07:00:00,16,0,0,0
+INT000897,SHOP017689,CUST00206,Aimee Gonzalez,grobinson@example.org,New Patriciachester,2026-02-07 08:00:00,7,0,1,1
+INT000898,SHOP011920,CUST00455,Elizabeth Dean,taragonzales@example.com,Stewartmouth,2026-02-07 09:00:00,10,1,0,0
+INT000899,BOOK000236,CUST00273,Kevin Snyder,henrynicholas@example.org,East Brandon,2026-02-07 10:00:00,12,1,0,0
+INT000900,SHOP009862,CUST00382,Christie Mccullough,amy73@example.com,Jimenezview,2026-02-07 11:00:00,14,1,0,0
+INT000901,SHOP001609,CUST00236,Danielle Smith,michaelbaldwin@example.com,Wilsonmouth,2026-02-07 12:00:00,5,0,0,0
+INT000902,SHOP008268,CUST00340,David Reed,brewerrebecca@example.org,New Mark,2026-02-07 13:00:00,18,0,0,0
+INT000903,SHOP003231,CUST00228,Sherry Tapia,vazquezkristina@example.org,Youngtown,2026-02-07 14:00:00,5,0,0,0
+INT000904,SHOP004957,CUST00009,Matthew Sweeney,angela45@example.net,Andrewshire,2026-02-07 15:00:00,3,0,1,1
+INT000905,SHOP018720,CUST00166,Ashley Moreno,nicholsjoel@example.com,South Justinfurt,2026-02-07 16:00:00,5,0,0,0
+INT000906,SHOP007863,CUST00432,Johnathan Brown,zsmith@example.com,New Samanthaton,2026-02-07 17:00:00,17,0,0,0
+INT000907,SHOP018645,CUST00444,Michelle Davis DVM,christopher34@example.org,Deannaland,2026-02-07 18:00:00,19,0,1,2
+INT000908,SHOP005116,CUST00319,Kelly Haynes,ruthwelch@example.net,Davischester,2026-02-07 19:00:00,19,0,0,0
+INT000909,SHOP003092,CUST00214,William Miller,rmccormick@example.org,Joshuastad,2026-02-07 20:00:00,12,1,1,1
+INT000910,SHOP010858,CUST00117,Casey Wilkins,aruiz@example.com,Millermouth,2026-02-07 21:00:00,9,0,0,0
+INT000911,SHOP005652,CUST00386,Keith Graham,gmcdowell@example.org,Salazarfurt,2026-02-07 22:00:00,1,1,0,0
+INT000912,SHOP007708,CUST00344,Cynthia Green,william56@example.net,Heathermouth,2026-02-07 23:00:00,18,0,0,0
+INT000913,SHOP008765,CUST00072,Robert Haynes,shawn00@example.net,Allisonville,2026-02-08 00:00:00,4,0,0,0
+INT000914,SHOP015225,CUST00395,Emily Nelson,crystalgibbs@example.org,Sharonville,2026-02-08 01:00:00,10,0,0,0
+INT000915,SHOP018983,CUST00064,Dale Chan,moralescourtney@example.com,East Brandontown,2026-02-08 02:00:00,7,0,0,0
+INT000916,BOOK000078,CUST00205,Brittney Martin,rodriguezjohn@example.net,North Victoria,2026-02-08 03:00:00,1,0,1,2
+INT000917,SHOP007278,CUST00209,Jason Herrera,melaniejennings@example.com,Perezland,2026-02-08 04:00:00,17,0,0,0
+INT000918,SHOP020312,CUST00072,Christine Parker,vmendoza@example.org,Lake Rachel,2026-02-08 05:00:00,2,0,0,0
+INT000919,SHOP016685,CUST00277,Bryan Moore,glenn95@example.com,Lisaside,2026-02-08 06:00:00,11,0,0,0
+INT000920,SHOP013761,CUST00274,Samantha Terry,christopherrichardson@example.com,Lake Mirandaview,2026-02-08 07:00:00,9,0,0,0
+INT000921,SHOP017150,CUST00478,Russell Murphy,kduffy@example.org,North Brandonport,2026-02-08 08:00:00,7,1,0,0
+INT000922,SHOP018221,CUST00320,David Kelly,vaughansandra@example.net,West Markfurt,2026-02-08 09:00:00,17,1,0,0
+INT000923,SHOP010236,CUST00338,Megan Green,rebeccamccann@example.org,Hollyberg,2026-02-08 10:00:00,17,1,0,0
+INT000924,SHOP009211,CUST00366,Amanda Sullivan MD,jacqueline20@example.com,Wilsonmouth,2026-02-08 11:00:00,2,0,0,0
+INT000925,SHOP006644,CUST00495,Danielle Murray,jburke@example.org,Port Breanna,2026-02-08 12:00:00,6,1,0,0
+INT000926,SHOP011655,CUST00095,Brenda Smith,george91@example.org,Walshville,2026-02-08 13:00:00,14,1,1,2
+INT000927,SHOP007505,CUST00166,Vickie Anderson,dayala@example.net,New Timothy,2026-02-08 14:00:00,6,0,0,0
+INT000928,SHOP006266,CUST00032,Jacqueline Mccoy,twilson@example.org,Braymouth,2026-02-08 15:00:00,2,1,0,0
+INT000929,SHOP005685,CUST00011,Lauren Green,sophiali@example.com,Perezview,2026-02-08 16:00:00,1,0,0,0
+INT000930,SHOP004371,CUST00301,Alison Brown,julie62@example.com,Jenniferstad,2026-02-08 17:00:00,10,1,0,0
+INT000931,SHOP018275,CUST00217,Jill Anderson,carolcarney@example.com,Lake Deborah,2026-02-08 18:00:00,5,1,0,0
+INT000932,SHOP008885,CUST00289,Sandra Rivera,robertortiz@example.org,Lake Christian,2026-02-08 19:00:00,2,0,0,0
+INT000933,SHOP018797,CUST00102,Joel Jackson,robertsjose@example.net,Browntown,2026-02-08 20:00:00,16,0,0,0
+INT000934,SHOP001893,CUST00425,Samantha Foster,xsolomon@example.net,South Lori,2026-02-08 21:00:00,2,1,0,0
+INT000935,SHOP000949,CUST00392,Michael Thompson,emiller@example.org,South Dan,2026-02-08 22:00:00,10,0,0,0
+INT000936,SHOP010947,CUST00267,Cody Ramirez,terri63@example.net,Port Brittany,2026-02-08 23:00:00,2,0,1,1
+INT000937,SHOP012491,CUST00214,Amanda Harvey,verickson@example.net,Kathleenport,2026-02-09 00:00:00,16,1,0,0
+INT000938,SHOP020118,CUST00179,Edward Jenkins,charles80@example.org,Rioshaven,2026-02-09 01:00:00,16,0,0,0
+INT000939,SHOP018082,CUST00088,Amy Ramirez,sarah75@example.net,East Jefferystad,2026-02-09 02:00:00,19,0,0,0
+INT000940,SHOP003388,CUST00041,Curtis Wilkerson,smithwilliam@example.com,Hesterhaven,2026-02-09 03:00:00,7,0,0,0
+INT000941,SHOP003719,CUST00401,Lydia Pham,tiffany52@example.net,Port Ricardo,2026-02-09 04:00:00,12,0,0,0
+INT000942,SHOP011003,CUST00076,Virginia Casey,carpenterjorge@example.net,West Rodneyport,2026-02-09 05:00:00,15,0,0,0
+INT000943,SHOP001671,CUST00377,Joshua Washington,dconrad@example.org,East Stevenville,2026-02-09 06:00:00,8,0,0,0
+INT000944,SHOP008090,CUST00046,Kathryn Price,stewartalyssa@example.org,East Allenmouth,2026-02-09 07:00:00,6,0,0,0
+INT000945,SHOP017287,CUST00160,Francis Robinson,darryl02@example.com,West Anthony,2026-02-09 08:00:00,10,0,0,0
+INT000946,SHOP015075,CUST00463,Paula Brown,julie64@example.com,Bellville,2026-02-09 09:00:00,3,1,0,0
+INT000947,SHOP005489,CUST00080,Kendra Wang DVM,zachary62@example.com,West Ryanberg,2026-02-09 10:00:00,19,0,0,0
+INT000948,SHOP005109,CUST00310,Ariel Sandoval,jgallagher@example.net,Shawhaven,2026-02-09 11:00:00,17,0,0,0
+INT000949,SHOP009147,CUST00086,Robert Stark,jbrown@example.org,Brianview,2026-02-09 12:00:00,7,0,0,0
+INT000950,SHOP000623,CUST00092,Zachary Robinson,isaacharrison@example.org,Coreyfurt,2026-02-09 13:00:00,20,0,0,0
+INT000951,SHOP000120,CUST00148,Rebecca Kelly,fgraham@example.org,Leeborough,2026-02-09 14:00:00,4,0,0,0
+INT000952,SHOP018289,CUST00161,Sarah Thompson,tkelly@example.net,Thompsonview,2026-02-09 15:00:00,14,0,0,0
+INT000953,SHOP010490,CUST00202,Renee Wolfe,hellis@example.net,Stoneville,2026-02-09 16:00:00,20,1,0,0
+INT000954,SHOP000821,CUST00424,Alyssa Haynes,daviddavis@example.com,Lake Johnville,2026-02-09 17:00:00,15,0,0,0
+INT000955,SHOP010961,CUST00416,Kristy Hart,marybrady@example.com,North Brian,2026-02-09 18:00:00,8,0,0,0
+INT000956,SHOP017035,CUST00242,William Keith,brandybonilla@example.net,New Josephland,2026-02-09 19:00:00,15,0,0,0
+INT000957,SHOP002037,CUST00353,Eric Henry Jr.,robertjones@example.com,West Jeremyfurt,2026-02-09 20:00:00,20,0,0,0
+INT000958,SHOP005074,CUST00002,Daniel Fox,clayanthony@example.net,Longbury,2026-02-09 21:00:00,14,0,0,0
+INT000959,SHOP001944,CUST00225,Thomas Harris,longbrittany@example.org,Tylerburgh,2026-02-09 22:00:00,9,0,0,0
+INT000960,SHOP018730,CUST00289,Mitchell Sellers,eric17@example.net,West Dana,2026-02-09 23:00:00,8,0,0,0
+INT000961,SHOP004313,CUST00233,Erica Johnson,rgibson@example.net,Jessicaville,2026-02-10 00:00:00,17,1,0,0
+INT000962,SHOP013647,CUST00461,Sylvia Schroeder,riverabradley@example.net,New Rebecca,2026-02-10 01:00:00,2,0,0,0
+INT000963,SHOP017950,CUST00414,Shannon Yu,unguyen@example.net,Stevensonbury,2026-02-10 02:00:00,3,0,1,3
+INT000964,SHOP010805,CUST00417,Tom Foster,jasonwilliams@example.net,West Erin,2026-02-10 03:00:00,8,0,0,0
+INT000965,SHOP013130,CUST00077,Eric Taylor,marcus01@example.net,East Martin,2026-02-10 04:00:00,12,0,0,0
+INT000966,SHOP006072,CUST00116,Travis Conner,qdavis@example.org,Thomastown,2026-02-10 05:00:00,1,0,1,1
+INT000967,SHOP006060,CUST00154,Marie Thompson,tammyglenn@example.org,Pattersontown,2026-02-10 06:00:00,10,0,1,3
+INT000968,SHOP007564,CUST00406,Melissa Mcfarland,phelpsfrank@example.com,West Nicole,2026-02-10 07:00:00,20,0,0,0
+INT000969,SHOP002929,CUST00103,Courtney Chapman,deborah21@example.com,Lake Kathleen,2026-02-10 08:00:00,3,0,0,0
+INT000970,SHOP019804,CUST00194,Eric Barker,vowen@example.com,New Michaelfort,2026-02-10 09:00:00,6,0,0,0
+INT000971,SHOP014083,CUST00166,Nicholas Rush,michaeldavis@example.com,South Morganfort,2026-02-10 10:00:00,7,0,0,0
+INT000972,SHOP018456,CUST00359,Jenna Gamble,tracymcclure@example.com,North Lorishire,2026-02-10 11:00:00,20,0,0,0
+INT000973,SHOP002592,CUST00090,Amanda Guzman,anna61@example.com,Maryhaven,2026-02-10 12:00:00,18,0,0,0
+INT000974,SHOP003457,CUST00174,Tracy Walker,christina66@example.org,Port Dwayne,2026-02-10 13:00:00,11,0,0,0
+INT000975,SHOP020310,CUST00122,Taylor Taylor,palmerteresa@example.net,North Kevinmouth,2026-02-10 14:00:00,19,1,1,1
+INT000976,SHOP015471,CUST00498,Cynthia Haas,deborahreeves@example.com,Henrystad,2026-02-10 15:00:00,5,0,0,0
+INT000977,SHOP016179,CUST00143,Stephen Davis,robertssamuel@example.com,Elizabethview,2026-02-10 16:00:00,19,1,0,0
+INT000978,SHOP002375,CUST00482,Margaret Tanner,edgar24@example.org,Stephenstad,2026-02-10 17:00:00,11,0,0,0
+INT000979,SHOP006599,CUST00106,Derek Wright,dphillips@example.net,Jenniferhaven,2026-02-10 18:00:00,12,0,0,0
+INT000980,SHOP009848,CUST00375,David Rodriguez,lowerywilliam@example.net,Rodriguezhaven,2026-02-10 19:00:00,10,0,0,0
+INT000981,SHOP000494,CUST00428,James Oconnor,dgutierrez@example.net,East Tiffanybury,2026-02-10 20:00:00,8,0,0,0
+INT000982,SHOP001817,CUST00305,Stacey Snyder,michael91@example.net,West Tyler,2026-02-10 21:00:00,9,0,0,0
+INT000983,SHOP005480,CUST00360,Joshua Garcia,wilsondorothy@example.org,New Joyce,2026-02-10 22:00:00,4,1,0,0
+INT000984,SHOP011999,CUST00459,Sean Curtis,meganwilliams@example.com,Howardland,2026-02-10 23:00:00,5,0,0,0
+INT000985,SHOP013854,CUST00317,Carla Jones,lee77@example.net,South Danielle,2026-02-11 00:00:00,8,1,1,1
+INT000986,SHOP010812,CUST00451,Elizabeth Flores,matthew23@example.org,Natalieside,2026-02-11 01:00:00,9,0,0,0
+INT000987,SHOP010490,CUST00123,Angela Jackson,burgesscassandra@example.net,Archerhaven,2026-02-11 02:00:00,15,1,0,0
+INT000988,SHOP011098,CUST00390,Nicholas Payne,hamiltonandrew@example.com,West Renee,2026-02-11 03:00:00,15,0,0,0
+INT000989,SHOP012700,CUST00009,Anna Wheeler,smithdiana@example.com,Pamelafurt,2026-02-11 04:00:00,16,1,0,0
+INT000990,SHOP000515,CUST00262,Karen Johnson,vmelton@example.net,Landryview,2026-02-11 05:00:00,14,0,0,0
+INT000991,SHOP016430,CUST00073,Carmen Preston,nturner@example.com,Jamesshire,2026-02-11 06:00:00,8,0,0,0
+INT000992,SHOP010242,CUST00359,Brian Harris,fballard@example.org,Maryville,2026-02-11 07:00:00,18,0,1,2
+INT000993,SHOP002144,CUST00223,Michael Bowen,alexanderrodriguez@example.org,Popeshire,2026-02-11 08:00:00,10,1,1,2
+INT000994,SHOP010158,CUST00416,Deborah Campbell,micheleclark@example.net,Keithtown,2026-02-11 09:00:00,20,0,0,0
+INT000995,SHOP010081,CUST00041,Anthony Armstrong,debragraham@example.net,Hoberg,2026-02-11 10:00:00,6,1,0,0
+INT000996,SHOP007484,CUST00370,Brittany Ward,christophercarrillo@example.org,Beckerhaven,2026-02-11 11:00:00,12,0,0,0
+INT000997,SHOP011174,CUST00204,Edward Stanley,hhenderson@example.org,Cindyburgh,2026-02-11 12:00:00,2,1,0,0
+INT000998,SHOP017069,CUST00264,Christina Johnson,joannewallace@example.com,Tommyland,2026-02-11 13:00:00,7,1,0,0
+INT000999,SHOP015029,CUST00328,Edgar Miller,csmith@example.net,Alexiston,2026-02-11 14:00:00,16,1,0,0
+INT001000,SHOP000528,CUST00178,Elizabeth Sanders,jameshudson@example.com,West Margaret,2026-02-11 15:00:00,3,0,1,2
